@@ -1,0 +1,6362 @@
+starting....
+/Users/imane/Desktop/reconstruction/.venv/lib/python3.10/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+Reading configuration parameters from  ./envs/ctgraph/ctgraph_d3.json
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+---------------------------------------------------
+This instance of CT-graph has
+- 3 sequential decision point(s)
+- 4 sequential delay states
+- 8 leaf nodes (ends)
+- 32 total states
+- 15 total delay states
+- 7 total decision points
+---------------------------------------------------
+/Users/imane/Desktop/reconstruction/.venv/lib/python3.10/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+Reading configuration parameters from  ./envs/ctgraph/ctgraph_d3.json
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+---------------------------------------------------
+This instance of CT-graph has
+- 3 sequential decision point(s)
+- 4 sequential delay states
+- 8 leaf nodes (ends)
+- 32 total states
+- 15 total delay states
+- 7 total decision points
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+Reading configuration parameters from  ./envs/ctgraph/ctgraph_d3.json
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+---------------------------------------------------
+This instance of CT-graph has
+- 3 sequential decision point(s)
+- 4 sequential delay states
+- 8 leaf nodes (ends)
+- 32 total states
+- 15 total delay states
+- 7 total decision points
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+Reading configuration parameters from  ./envs/ctgraph/ctgraph_d3.json
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+---------------------------------------------------
+This instance of CT-graph has
+- 3 sequential decision point(s)
+- 4 sequential delay states
+- 8 leaf nodes (ends)
+- 32 total states
+- 15 total delay states
+- 7 total decision points
+---------------------------------------------------
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+./envs/ctgraph/ctgraph_d3.json
+---------------------------------------------------
+             The CT-graph environments             
+---------------------------------------------------
+Reading configuration parameters from  ./envs/ctgraph/ctgraph_d3.json
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+---------------------------------------------------
+This instance of CT-graph has
+- 3 sequential decision point(s)
+- 4 sequential delay states
+- 8 leaf nodes (ends)
+- 32 total states
+- 15 total delay states
+- 7 total decision points
+---------------------------------------------------
+discrete actions / cavia / without neuromodulation
+
+improve: -0.04319164156913757
+kl: 0.004793226718902588
+step_size: 1.0
+itr:  0    return before update:  -0.009980133
+itr:  0    return after update:  -0.008970109
+   inner RL loss: -0.2742206621915102
+   outer RL loss: 0.11230713129043579
+
+improve: -0.04235823452472687
+kl: 0.006267012096941471
+step_size: 0.8
+itr:  1    return before update:  -0.008920131
+itr:  1    return after update:  -0.008910107
+
+improve: -0.048025697469711304
+kl: 0.008917238563299179
+step_size: 0.8
+itr:  2    return before update:  -0.004830037
+itr:  2    return after update:  -0.008790105
+
+improve: -0.03600441664457321
+kl: 0.006867995951324701
+step_size: 1.0
+itr:  3    return before update:  -0.00032999465
+itr:  3    return after update:  -0.0023599935
+
+improve: -0.037195637822151184
+kl: 0.007339498493820429
+step_size: 1.0
+itr:  4    return before update:  0.004069949
+itr:  4    return after update:  0.008339918
+
+improve: -0.03584970533847809
+kl: 0.009133139625191689
+step_size: 1.0
+itr:  5    return before update:  0.017039876
+itr:  5    return after update:  0.01520986
+
+improve: -0.024278882890939713
+kl: 0.006068868096917868
+step_size: 1.0
+itr:  6    return before update:  0.039209977
+itr:  6    return after update:  0.036569986
+
+improve: -0.02315136045217514
+kl: 0.00820834655314684
+step_size: 1.0
+itr:  7    return before update:  0.049260177
+itr:  7    return after update:  0.059010293
+
+improve: -0.019066184759140015
+kl: 0.007487687282264233
+step_size: 1.0
+itr:  8    return before update:  0.042230103
+itr:  8    return after update:  0.06939023
+
+improve: -0.02105012536048889
+kl: 0.006623484194278717
+step_size: 1.0
+itr:  9    return before update:  0.072750054
+itr:  9    return after update:  0.095469914
+
+improve: -0.019633004441857338
+kl: 0.006726859603077173
+step_size: 1.0
+itr:  10    return before update:  0.09571992
+itr:  10    return after update:  0.10084999
+   inner RL loss: -0.13616484401281923
+   outer RL loss: 0.02347169630229473
+
+improve: -0.021031329408288002
+kl: 0.005447118077427149
+step_size: 1.0
+itr:  11    return before update:  0.11559992
+itr:  11    return after update:  0.110909946
+
+improve: -0.01443374902009964
+kl: 0.006535302847623825
+step_size: 1.0
+itr:  12    return before update:  0.11614992
+itr:  12    return after update:  0.13433996
+
+improve: -0.013579890131950378
+kl: 0.005373852327466011
+step_size: 1.0
+itr:  13    return before update:  0.12457998
+itr:  13    return after update:  0.14049
+
+improve: -0.01885102316737175
+kl: 0.009301958605647087
+step_size: 0.8
+itr:  14    return before update:  0.15390001
+itr:  14    return after update:  0.15383
+
+improve: -0.02234376035630703
+kl: 0.007746431976556778
+step_size: 0.8
+itr:  15    return before update:  0.11088999
+itr:  15    return after update:  0.18089
+
+improve: -0.022058740258216858
+kl: 0.009666038677096367
+step_size: 1.0
+itr:  16    return before update:  0.11082999
+itr:  16    return after update:  0.16793
+
+improve: -0.010214071720838547
+kl: 0.00706649711355567
+step_size: 0.8
+itr:  17    return before update:  0.12684998
+itr:  17    return after update:  0.26294
+
+improve: -0.006456747651100159
+kl: 0.006373013369739056
+step_size: 1.0
+itr:  18    return before update:  0.13092
+itr:  18    return after update:  0.22197
+
+improve: -0.013065915554761887
+kl: 0.009481077082455158
+step_size: 1.0
+itr:  19    return before update:  0.15892999
+itr:  19    return after update:  0.21093002
+
+improve: -0.01081300899386406
+kl: 0.0064550586976110935
+step_size: 1.0
+itr:  20    return before update:  0.109979995
+itr:  20    return after update:  0.17797999
+   inner RL loss: 0.009320361155550927
+   outer RL loss: -0.010447334498167038
+
+improve: -0.0074758888222277164
+kl: 0.00775489304214716
+step_size: 0.8
+itr:  21    return before update:  0.13498999
+itr:  21    return after update:  0.22699
+
+improve: -0.009213489480316639
+kl: 0.006835381034761667
+step_size: 1.0
+itr:  22    return before update:  0.11495999
+itr:  22    return after update:  0.19897999
+
+improve: -0.016926290467381477
+kl: 0.006777663715183735
+step_size: 1.0
+itr:  23    return before update:  0.13286997
+itr:  23    return after update:  0.21798
+
+improve: -0.008486066944897175
+kl: 0.001462256070226431
+step_size: 1.0
+itr:  24    return before update:  0.14392
+itr:  24    return after update:  0.1769
+
+improve: -0.012584286741912365
+kl: 0.005814807955175638
+step_size: 1.0
+itr:  25    return before update:  0.091
+itr:  25    return after update:  0.192
+
+improve: -0.013744114898145199
+kl: 0.007281072437763214
+step_size: 1.0
+itr:  26    return before update:  0.108
+itr:  26    return after update:  0.31599
+
+improve: -0.019107038155198097
+kl: 0.006213202606886625
+step_size: 1.0
+itr:  27    return before update:  0.129
+itr:  27    return after update:  0.22698998
+
+improve: -0.008567663840949535
+kl: 0.008331527933478355
+step_size: 1.0
+itr:  28    return before update:  0.121
+itr:  28    return after update:  0.19198999
+
+improve: -0.01802479475736618
+kl: 0.007460440509021282
+step_size: 0.8
+itr:  29    return before update:  0.172
+itr:  29    return after update:  0.23199
+
+improve: -0.018505290150642395
+kl: 0.009104621596634388
+step_size: 1.0
+itr:  30    return before update:  0.191
+itr:  30    return after update:  0.193
+   inner RL loss: -0.0017897114506922663
+   outer RL loss: -0.018505295738577843
+
+improve: -0.014491668902337551
+kl: 0.0064057158306241035
+step_size: 1.0
+itr:  31    return before update:  0.109
+itr:  31    return after update:  0.33
+
+improve: -0.021466447040438652
+kl: 0.0065042986534535885
+step_size: 1.0
+itr:  32    return before update:  0.144
+itr:  32    return after update:  0.489
+
+improve: -0.016721688210964203
+kl: 0.005623261444270611
+step_size: 1.0
+itr:  33    return before update:  0.112
+itr:  33    return after update:  0.333
+
+improve: -0.00625959737226367
+kl: 0.0063058300875127316
+step_size: 1.0
+itr:  34    return before update:  0.09
+itr:  34    return after update:  0.38698998
+
+improve: -0.016814328730106354
+kl: 0.00673399493098259
+step_size: 1.0
+itr:  35    return before update:  0.132
+itr:  35    return after update:  0.388
+
+improve: -0.00601616408675909
+kl: 0.0036102929152548313
+step_size: 1.0
+itr:  36    return before update:  0.139
+itr:  36    return after update:  0.417
+
+improve: -0.008760702796280384
+kl: 0.004613535478711128
+step_size: 1.0
+itr:  37    return before update:  0.133
+itr:  37    return after update:  0.516
+
+improve: -0.0022160199005156755
+kl: 0.00967907253652811
+step_size: 0.5120000000000001
+itr:  38    return before update:  0.083
+itr:  38    return after update:  0.252
+
+improve: -0.012694558128714561
+kl: 0.006204248871654272
+step_size: 1.0
+itr:  39    return before update:  0.201
+itr:  39    return after update:  0.434
+
+improve: -0.0095584811642766
+kl: 0.0076702856458723545
+step_size: 1.0
+itr:  40    return before update:  0.109
+itr:  40    return after update:  0.35196996
+   inner RL loss: 0.0009063243865966797
+   outer RL loss: -0.007798412349075079
+
+improve: -0.007696867920458317
+kl: 0.005106008145958185
+step_size: 1.0
+itr:  41    return before update:  0.16
+itr:  41    return after update:  0.527
+
+improve: -0.017157845199108124
+kl: 0.008029842749238014
+step_size: 1.0
+itr:  42    return before update:  0.08099
+itr:  42    return after update:  0.317
+
+improve: -0.007902742363512516
+kl: 0.006198783405125141
+step_size: 1.0
+itr:  43    return before update:  0.103
+itr:  43    return after update:  0.433
+
+improve: -0.012390511110424995
+kl: 0.009820518083870411
+step_size: 0.8
+itr:  44    return before update:  0.107
+itr:  44    return after update:  0.5
+
+improve: -0.0051061962731182575
+kl: 0.007703391369432211
+step_size: 1.0
+itr:  45    return before update:  0.15298998
+itr:  45    return after update:  0.46399
+
+improve: -0.0021797732915729284
+kl: 0.0028670369647443295
+step_size: 0.40960000000000013
+itr:  46    return before update:  0.205
+itr:  46    return after update:  0.47
+
+improve: -0.005608426872640848
+kl: 0.009555338881909847
+step_size: 0.8
+itr:  47    return before update:  0.161
+itr:  47    return after update:  0.476
+
+improve: -0.008728042244911194
+kl: 0.00832817517220974
+step_size: 1.0
+itr:  48    return before update:  0.092
+itr:  48    return after update:  0.433
+
+improve: -0.0053389607928693295
+kl: 0.006904496345669031
+step_size: 0.8
+itr:  49    return before update:  0.109
+itr:  49    return after update:  0.427
+
+improve: -0.0037395795807242393
+kl: 0.00783759169280529
+step_size: 1.0
+itr:  50    return before update:  0.093
+itr:  50    return after update:  0.475
+   inner RL loss: 0.010143368202261627
+   outer RL loss: -0.0037395753897726536
+
+improve: -0.014775893650949001
+kl: 0.009065764024853706
+step_size: 1.0
+itr:  51    return before update:  0.122
+itr:  51    return after update:  0.39296997
+
+improve: -0.006939627230167389
+kl: 0.005605914629995823
+step_size: 1.0
+itr:  52    return before update:  0.122
+itr:  52    return after update:  0.50395995
+
+improve: -0.004333535674959421
+kl: 0.008486776612699032
+step_size: 0.8
+itr:  53    return before update:  0.093
+itr:  53    return after update:  0.424
+
+improve: -0.004098337609320879
+kl: 0.0071699670515954494
+step_size: 1.0
+itr:  54    return before update:  0.125
+itr:  54    return after update:  0.326
+
+improve: -0.005137750878930092
+kl: 0.003068602876737714
+step_size: 1.0
+itr:  55    return before update:  0.111
+itr:  55    return after update:  0.366
+
+improve: -0.0038678806740790606
+kl: 0.005854922346770763
+step_size: 0.5120000000000001
+itr:  56    return before update:  0.091
+itr:  56    return after update:  0.419
+
+improve: -0.005367025267332792
+kl: 0.0030826833099126816
+step_size: 1.0
+itr:  57    return before update:  0.149
+itr:  57    return after update:  0.489
+
+improve: -0.007003442849963903
+kl: 0.007213742937892675
+step_size: 0.8
+itr:  58    return before update:  0.134
+itr:  58    return after update:  0.529
+
+improve: -0.00814069528132677
+kl: 0.008317215368151665
+step_size: 1.0
+itr:  59    return before update:  0.137
+itr:  59    return after update:  0.518
+
+improve: -0.006873720791190863
+kl: 0.006036265287548304
+step_size: 0.6400000000000001
+itr:  60    return before update:  0.107
+itr:  60    return after update:  0.327
+   inner RL loss: -0.006866569584235549
+   outer RL loss: -0.006873713340610266
+
+improve: -0.00306262681260705
+kl: 0.0058607179671525955
+step_size: 0.6400000000000001
+itr:  61    return before update:  0.115
+itr:  61    return after update:  0.57998997
+
+improve: -0.0048636808060109615
+kl: 0.00906804483383894
+step_size: 1.0
+itr:  62    return before update:  0.12099001
+itr:  62    return after update:  0.475
+
+improve: -0.0010433470597490668
+kl: 0.003533479291945696
+step_size: 0.8
+itr:  63    return before update:  0.129
+itr:  63    return after update:  0.49
+
+improve: -0.0064072622917592525
+kl: 0.008792996406555176
+step_size: 0.8
+itr:  64    return before update:  0.147
+itr:  64    return after update:  0.501
+
+improve: -0.0009559029131196439
+kl: 0.006601359695196152
+step_size: 0.6400000000000001
+itr:  65    return before update:  0.071
+itr:  65    return after update:  0.425
+
+improve: -0.0039700609631836414
+kl: 0.00651448592543602
+step_size: 1.0
+itr:  66    return before update:  0.10199
+itr:  66    return after update:  0.335
+
+improve: -0.00524030951783061
+kl: 0.0061956667341291904
+step_size: 0.5120000000000001
+itr:  67    return before update:  0.119
+itr:  67    return after update:  0.424
+
+improve: -0.0013353057438507676
+kl: 0.005513287149369717
+step_size: 0.40960000000000013
+itr:  68    return before update:  0.153
+itr:  68    return after update:  0.356
+
+improve: -0.003288859501481056
+kl: 0.003644651500508189
+step_size: 1.0
+itr:  69    return before update:  0.13
+itr:  69    return after update:  0.345
+
+improve: -0.0048961518332362175
+kl: 0.007269988767802715
+step_size: 0.32768000000000014
+itr:  70    return before update:  0.1
+itr:  70    return after update:  0.401
+   inner RL loss: 0.0126903316937387
+   outer RL loss: -0.0048961881548166275
+
+improve: -0.006375710945576429
+kl: 0.005059334449470043
+step_size: 1.0
+itr:  71    return before update:  0.07
+itr:  71    return after update:  0.361
+
+improve: -0.0008014077320694923
+kl: 0.0006854497478343546
+step_size: 0.32768000000000014
+itr:  72    return before update:  0.037
+itr:  72    return after update:  0.32
+
+improve: -0.0056772902607917786
+kl: 0.003501511411741376
+step_size: 1.0
+itr:  73    return before update:  0.15498999
+itr:  73    return after update:  0.37
+
+improve: -0.0039047833997756243
+kl: 0.006652825977653265
+step_size: 1.0
+itr:  74    return before update:  0.067
+itr:  74    return after update:  0.335
+
+improve: -0.005875131580978632
+kl: 0.003415483981370926
+step_size: 1.0
+itr:  75    return before update:  0.107
+itr:  75    return after update:  0.306
+
+improve: -0.008136676624417305
+kl: 0.0031626936979591846
+step_size: 1.0
+itr:  76    return before update:  0.11799
+itr:  76    return after update:  0.335
+
+improve: -0.0016402092296630144
+kl: 0.0008130250498652458
+step_size: 0.40960000000000013
+itr:  77    return before update:  0.198
+itr:  77    return after update:  0.445
+
+improve: -0.0030923401936888695
+kl: 0.004356240853667259
+step_size: 1.0
+itr:  78    return before update:  0.159
+itr:  78    return after update:  0.397
+
+improve: -0.004196853376924992
+kl: 0.004881765693426132
+step_size: 1.0
+itr:  79    return before update:  0.20899001
+itr:  79    return after update:  0.512
+
+improve: -0.006217725574970245
+kl: 0.007657170295715332
+step_size: 1.0
+itr:  80    return before update:  0.115
+itr:  80    return after update:  0.448
+   inner RL loss: 0.013119120988994837
+   outer RL loss: -0.0062177167274057865
+
+improve: -0.005026796367019415
+kl: 0.007920586504042149
+step_size: 1.0
+itr:  81    return before update:  0.10299001
+itr:  81    return after update:  0.488
+
+improve: -0.006581967230886221
+kl: 0.007244657725095749
+step_size: 0.6400000000000001
+itr:  82    return before update:  0.111
+itr:  82    return after update:  0.373
+
+improve: -0.003472408279776573
+kl: 0.008235889486968517
+step_size: 0.8
+itr:  83    return before update:  0.079
+itr:  83    return after update:  0.425
+
+improve: -0.005419308319687843
+kl: 0.0069299438036978245
+step_size: 0.8
+itr:  84    return before update:  0.143
+itr:  84    return after update:  0.577
+
+improve: -0.01194142084568739
+kl: 0.006555031985044479
+step_size: 0.6400000000000001
+itr:  85    return before update:  0.139
+itr:  85    return after update:  0.499
+
+improve: -0.0033021774142980576
+kl: 0.008275994099676609
+step_size: 1.0
+itr:  86    return before update:  0.102
+itr:  86    return after update:  0.374
+
+improve: -0.0015148757956922054
+kl: 0.004751859698444605
+step_size: 0.8
+itr:  87    return before update:  0.105
+itr:  87    return after update:  0.472
+
+improve: -0.004529440775513649
+kl: 0.009730546735227108
+step_size: 0.6400000000000001
+itr:  88    return before update:  0.103
+itr:  88    return after update:  0.399
+
+improve: -0.0059739891439676285
+kl: 0.008472798392176628
+step_size: 1.0
+itr:  89    return before update:  0.111
+itr:  89    return after update:  0.572
+
+improve: -0.0008615425904281437
+kl: 0.0012897573178634048
+step_size: 0.1677721600000001
+itr:  90    return before update:  0.177
+itr:  90    return after update:  0.572
+   inner RL loss: -0.005704911658540368
+   outer RL loss: -0.0008615095866844058
+
+improve: -0.003476145677268505
+kl: 0.0031583993695676327
+step_size: 0.5120000000000001
+itr:  91    return before update:  0.138
+itr:  91    return after update:  0.55
+
+improve: -0.002896318444982171
+kl: 0.007933580316603184
+step_size: 1.0
+itr:  92    return before update:  0.122
+itr:  92    return after update:  0.432
+
+improve: -0.006128709763288498
+kl: 0.007997089996933937
+step_size: 1.0
+itr:  93    return before update:  0.139
+itr:  93    return after update:  0.508
+
+improve: -0.0019887175876647234
+kl: 0.009648378938436508
+step_size: 0.6400000000000001
+itr:  94    return before update:  0.139
+itr:  94    return after update:  0.545
+
+improve: -0.004326771013438702
+kl: 0.007088924758136272
+step_size: 0.5120000000000001
+itr:  95    return before update:  0.055
+itr:  95    return after update:  0.38
+
+improve: -0.004305219743400812
+kl: 0.006710183806717396
+step_size: 0.5120000000000001
+itr:  96    return before update:  0.13
+itr:  96    return after update:  0.575
+
+improve: -0.00911746360361576
+kl: 0.009325188584625721
+step_size: 1.0
+itr:  97    return before update:  0.137
+itr:  97    return after update:  0.455
+
+improve: -0.004585010465234518
+kl: 0.005836389493197203
+step_size: 0.32768000000000014
+itr:  98    return before update:  0.132
+itr:  98    return after update:  0.525
+
+improve: -0.003300813492387533
+kl: 0.005599364638328552
+step_size: 0.5120000000000001
+itr:  99    return before update:  0.183
+itr:  99    return after update:  0.674
+
+improve: -0.002648577094078064
+kl: 0.005979487206786871
+step_size: 0.5120000000000001
+itr:  100    return before update:  0.15
+itr:  100    return after update:  0.59999
+   inner RL loss: 0.0019926224136725067
+   outer RL loss: -0.0014207842759788036
+
+improve: -0.004477064125239849
+kl: 0.009990994818508625
+step_size: 1.0
+itr:  101    return before update:  0.164
+itr:  101    return after update:  0.541
+
+improve: -0.002044465159997344
+kl: 0.006604182068258524
+step_size: 0.8
+itr:  102    return before update:  0.119
+itr:  102    return after update:  0.44899
+
+improve: -0.0063144611194729805
+kl: 0.008360360749065876
+step_size: 1.0
+itr:  103    return before update:  0.123
+itr:  103    return after update:  0.458
+
+improve: -0.01557000633329153
+kl: 0.00539905671030283
+step_size: 0.40960000000000013
+itr:  104    return before update:  0.145
+itr:  104    return after update:  0.499
+
+improve: -0.003046482801437378
+kl: 0.008517598733305931
+step_size: 0.8
+itr:  105    return before update:  0.131
+itr:  105    return after update:  0.52
+
+improve: -0.004934448748826981
+kl: 0.006393838673830032
+step_size: 1.0
+itr:  106    return before update:  0.129
+itr:  106    return after update:  0.446
+
+improve: -0.00965772196650505
+kl: 0.007872221060097218
+step_size: 0.8
+itr:  107    return before update:  0.164
+itr:  107    return after update:  0.455
+
+improve: -0.004164674784988165
+kl: 0.008818733505904675
+step_size: 0.6400000000000001
+itr:  108    return before update:  0.138
+itr:  108    return after update:  0.475
+
+improve: -0.0033316663466393948
+kl: 0.0041963206604123116
+step_size: 1.0
+itr:  109    return before update:  0.149
+itr:  109    return after update:  0.621
+
+improve: -0.003375409170985222
+kl: 0.006676859222352505
+step_size: 0.8
+itr:  110    return before update:  0.098
+itr:  110    return after update:  0.5
+   inner RL loss: 0.010028165421681478
+   outer RL loss: -0.003375376109033823
+
+improve: -0.004005904775112867
+kl: 0.0056476350873708725
+step_size: 1.0
+itr:  111    return before update:  0.109
+itr:  111    return after update:  0.375
+
+improve: -0.00828187633305788
+kl: 0.007136932108551264
+step_size: 0.8
+itr:  112    return before update:  0.105
+itr:  112    return after update:  0.52
+
+improve: -0.0030710045248270035
+kl: 0.009394376538693905
+step_size: 1.0
+itr:  113    return before update:  0.098
+itr:  113    return after update:  0.325
+
+improve: -0.00532878004014492
+kl: 0.008898867294192314
+step_size: 0.6400000000000001
+itr:  114    return before update:  0.122
+itr:  114    return after update:  0.426
+
+improve: -0.0041547599248588085
+kl: 0.004945766180753708
+step_size: 0.6400000000000001
+itr:  115    return before update:  0.144
+itr:  115    return after update:  0.524
+
+improve: -0.008225051686167717
+kl: 0.0055625950917601585
+step_size: 1.0
+itr:  116    return before update:  0.165
+itr:  116    return after update:  0.452
+
+improve: -0.006405228283256292
+kl: 0.0080284858122468
+step_size: 1.0
+itr:  117    return before update:  0.125
+itr:  117    return after update:  0.55
+
+improve: -0.003634324297308922
+kl: 0.006391520611941814
+step_size: 1.0
+itr:  118    return before update:  0.102
+itr:  118    return after update:  0.425
+
+improve: -0.005172614008188248
+kl: 0.0089502464979887
+step_size: 0.5120000000000001
+itr:  119    return before update:  0.126
+itr:  119    return after update:  0.425
+
+improve: -0.004307523835450411
+kl: 0.006253993604332209
+step_size: 0.8
+itr:  120    return before update:  0.165
+itr:  120    return after update:  0.6
+   inner RL loss: 0.0015534042264334857
+   outer RL loss: -0.004307501949369907
+
+improve: -0.002935585333034396
+kl: 0.0026303648483008146
+step_size: 1.0
+itr:  121    return before update:  0.132
+itr:  121    return after update:  0.52
+
+improve: -0.0012222049990668893
+kl: 0.0036922520957887173
+step_size: 1.0
+itr:  122    return before update:  0.101
+itr:  122    return after update:  0.497
+
+improve: -0.007102204952389002
+kl: 0.005256967153400183
+step_size: 1.0
+itr:  123    return before update:  0.125
+itr:  123    return after update:  0.481
+
+improve: -0.0001232163776876405
+kl: 0.004602594301104546
+step_size: 1.0
+itr:  124    return before update:  0.087
+itr:  124    return after update:  0.275
+
+improve: -0.0039472091011703014
+kl: 0.004939507693052292
+step_size: 0.40960000000000013
+itr:  125    return before update:  0.147
+itr:  125    return after update:  0.502
+
+improve: -0.005465563852339983
+kl: 0.009926039725542068
+step_size: 0.8
+itr:  126    return before update:  0.129
+itr:  126    return after update:  0.55
+
+improve: -0.004554877523332834
+kl: 0.008920075371861458
+step_size: 0.6400000000000001
+itr:  127    return before update:  0.136
+itr:  127    return after update:  0.549
+
+improve: -0.00485703581944108
+kl: 0.003039231523871422
+step_size: 1.0
+itr:  128    return before update:  0.141
+itr:  128    return after update:  0.523
+
+improve: -0.003888855455443263
+kl: 0.007271630223840475
+step_size: 0.6400000000000001
+itr:  129    return before update:  0.069
+itr:  129    return after update:  0.4
+
+improve: -0.0038129265885800123
+kl: 0.006869200617074966
+step_size: 0.5120000000000001
+itr:  130    return before update:  0.156
+itr:  130    return after update:  0.524
+   inner RL loss: -0.007252905680797994
+   outer RL loss: -0.003812922863289714
+
+improve: -0.0032721813768148422
+kl: 0.005322025157511234
+step_size: 1.0
+itr:  131    return before update:  0.142
+itr:  131    return after update:  0.471
+
+improve: -0.007124749477952719
+kl: 0.007462367415428162
+step_size: 0.8
+itr:  132    return before update:  0.124
+itr:  132    return after update:  0.524
+
+improve: -0.004866891540586948
+kl: 0.0090873371809721
+step_size: 1.0
+itr:  133    return before update:  0.107
+itr:  133    return after update:  0.474
+
+improve: -0.0026101451367139816
+kl: 0.001051737111993134
+step_size: 1.0
+itr:  134    return before update:  0.099
+itr:  134    return after update:  0.49595997
+
+improve: -0.002866157563403249
+kl: 0.008167466148734093
+step_size: 1.0
+itr:  135    return before update:  0.147
+itr:  135    return after update:  0.604
+
+improve: -0.004967733286321163
+kl: 0.006640634499490261
+step_size: 0.40960000000000013
+itr:  136    return before update:  0.093
+itr:  136    return after update:  0.375
+
+improve: -0.002692278241738677
+kl: 0.0029532858170568943
+step_size: 1.0
+itr:  137    return before update:  0.193
+itr:  137    return after update:  0.649
+
+improve: -0.0026390934363007545
+kl: 0.006649184040725231
+step_size: 0.5120000000000001
+itr:  138    return before update:  0.103
+itr:  138    return after update:  0.45
+
+improve: -0.003433272708207369
+kl: 0.00729138171300292
+step_size: 0.8
+itr:  139    return before update:  0.109
+itr:  139    return after update:  0.46899
+
+improve: -0.0030407404992729425
+kl: 0.004323980771005154
+step_size: 0.6400000000000001
+itr:  140    return before update:  0.122
+itr:  140    return after update:  0.59699
+   inner RL loss: 0.017823330825194716
+   outer RL loss: -0.002772741252556443
+
+improve: -0.009914503432810307
+kl: 0.007976413704454899
+step_size: 1.0
+itr:  141    return before update:  0.155
+itr:  141    return after update:  0.613
+
+improve: -0.005467149894684553
+kl: 0.006691097281873226
+step_size: 0.40960000000000013
+itr:  142    return before update:  0.095
+itr:  142    return after update:  0.35
+
+improve: -0.0027343742549419403
+kl: 0.005272527225315571
+step_size: 1.0
+itr:  143    return before update:  0.124
+itr:  143    return after update:  0.473
+
+improve: -0.007525038905441761
+kl: 0.005646540783345699
+step_size: 1.0
+itr:  144    return before update:  0.106
+itr:  144    return after update:  0.513
+
+improve: -0.004033294506371021
+kl: 0.007270110305398703
+step_size: 0.8
+itr:  145    return before update:  0.121
+itr:  145    return after update:  0.399
+
+improve: -0.002723559271544218
+kl: 0.003927475307136774
+step_size: 1.0
+itr:  146    return before update:  0.138
+itr:  146    return after update:  0.597
+
+improve: -0.0034936305601149797
+kl: 0.0054677254520356655
+step_size: 1.0
+itr:  147    return before update:  0.102
+itr:  147    return after update:  0.388
+
+improve: -0.005606221035122871
+kl: 0.008389289490878582
+step_size: 0.6400000000000001
+itr:  148    return before update:  0.115
+itr:  148    return after update:  0.45
+
+improve: -0.0039823888801038265
+kl: 0.005961666814982891
+step_size: 0.6400000000000001
+itr:  149    return before update:  0.126
+itr:  149    return after update:  0.549
+
+improve: -0.005554063245654106
+kl: 0.00542909512296319
+step_size: 0.8
+itr:  150    return before update:  0.119
+itr:  150    return after update:  0.452
+   inner RL loss: 0.003629223722964525
+   outer RL loss: -0.005554066505283117
+
+improve: -0.00328256469219923
+kl: 0.006749060936272144
+step_size: 1.0
+itr:  151    return before update:  0.167
+itr:  151    return after update:  0.548
+
+improve: -0.006342889741063118
+kl: 0.008730868808925152
+step_size: 1.0
+itr:  152    return before update:  0.142
+itr:  152    return after update:  0.43
+
+improve: -0.004542970098555088
+kl: 0.006742000579833984
+step_size: 1.0
+itr:  153    return before update:  0.108
+itr:  153    return after update:  0.499
+
+improve: -0.007884464226663113
+kl: 0.00950552150607109
+step_size: 0.6400000000000001
+itr:  154    return before update:  0.151
+itr:  154    return after update:  0.557
+
+improve: -0.0049462588503956795
+kl: 0.009603002108633518
+step_size: 0.8
+itr:  155    return before update:  0.075
+itr:  155    return after update:  0.425
+
+improve: -0.0016785780899226665
+kl: 0.00919264368712902
+step_size: 0.8
+itr:  156    return before update:  0.118
+itr:  156    return after update:  0.628
+
+improve: -0.012244047597050667
+kl: 0.002108390675857663
+step_size: 1.0
+itr:  157    return before update:  0.141
+itr:  157    return after update:  0.52280986
+
+improve: -0.001597310067154467
+kl: 0.001481386600062251
+step_size: 1.0
+itr:  158    return before update:  0.128
+itr:  158    return after update:  0.47096997
+
+improve: -0.004984207917004824
+kl: 0.002836038125678897
+step_size: 1.0
+itr:  159    return before update:  0.112
+itr:  159    return after update:  0.463
+
+improve: -0.005018102470785379
+kl: 0.006890737451612949
+step_size: 0.8
+itr:  160    return before update:  0.103
+itr:  160    return after update:  0.423
+   inner RL loss: -0.00026843677933356956
+   outer RL loss: -0.005018067546188831
+
+improve: -0.00498908432200551
+kl: 0.0073254285380244255
+step_size: 1.0
+itr:  161    return before update:  0.121
+itr:  161    return after update:  0.545
+
+improve: -0.00537794129922986
+kl: 0.005306667182594538
+step_size: 0.8
+itr:  162    return before update:  0.138
+itr:  162    return after update:  0.502
+
+improve: -0.005534668453037739
+kl: 0.0069891721941530704
+step_size: 1.0
+itr:  163    return before update:  0.115
+itr:  163    return after update:  0.476
+
+improve: -0.0069196890108287334
+kl: 0.008337950333952904
+step_size: 0.6400000000000001
+itr:  164    return before update:  0.082
+itr:  164    return after update:  0.379
+
+improve: -0.008172756992280483
+kl: 0.007644299417734146
+step_size: 0.8
+itr:  165    return before update:  0.111
+itr:  165    return after update:  0.341
+
+improve: -0.0028979559428989887
+kl: 0.008369097486138344
+step_size: 0.6400000000000001
+itr:  166    return before update:  0.134
+itr:  166    return after update:  0.504
+
+improve: -0.007860993966460228
+kl: 0.006941174156963825
+step_size: 0.8
+itr:  167    return before update:  0.103
+itr:  167    return after update:  0.454
+
+improve: -0.004295431077480316
+kl: 0.006641891784965992
+step_size: 0.6400000000000001
+itr:  168    return before update:  0.115
+itr:  168    return after update:  0.425
+
+improve: -0.0034769491758197546
+kl: 0.007341307587921619
+step_size: 1.0
+itr:  169    return before update:  0.177
+itr:  169    return after update:  0.65
+
+improve: -0.007957267574965954
+kl: 0.00951489619910717
+step_size: 1.0
+itr:  170    return before update:  0.107
+itr:  170    return after update:  0.475
+   inner RL loss: 0.008689648588187993
+   outer RL loss: -0.007957263849675655
+
+improve: -0.0065935514867305756
+kl: 0.00418796855956316
+step_size: 1.0
+itr:  171    return before update:  0.117
+itr:  171    return after update:  0.41
+
+improve: -0.005061896052211523
+kl: 0.0077599151991307735
+step_size: 0.8
+itr:  172    return before update:  0.127
+itr:  172    return after update:  0.45
+
+improve: -0.004464130848646164
+kl: 0.007756520062685013
+step_size: 0.8
+itr:  173    return before update:  0.123
+itr:  173    return after update:  0.45
+
+improve: -0.00537062669172883
+kl: 0.0033117104321718216
+step_size: 1.0
+itr:  174    return before update:  0.146
+itr:  174    return after update:  0.527
+
+improve: -0.002086520427837968
+kl: 0.0032705836929380894
+step_size: 1.0
+itr:  175    return before update:  0.094
+itr:  175    return after update:  0.5
+
+improve: -0.011422188952565193
+kl: 0.008842306211590767
+step_size: 1.0
+itr:  176    return before update:  0.121
+itr:  176    return after update:  0.458
+
+improve: -0.007492867298424244
+kl: 0.004611970391124487
+step_size: 1.0
+itr:  177    return before update:  0.105
+itr:  177    return after update:  0.45479998
+
+improve: -0.002322338754311204
+kl: 0.0007312769303098321
+step_size: 1.0
+itr:  178    return before update:  0.081
+itr:  178    return after update:  0.44697005
+
+improve: -0.002789671765640378
+kl: 0.007922983728349209
+step_size: 0.5120000000000001
+itr:  179    return before update:  0.11
+itr:  179    return after update:  0.473
+
+improve: -0.007847258821129799
+kl: 0.0070863342843949795
+step_size: 0.5120000000000001
+itr:  180    return before update:  0.138
+itr:  180    return after update:  0.401
+   inner RL loss: -0.0029527278675232083
+   outer RL loss: -0.00784726906567812
+
+improve: -0.004600308369845152
+kl: 0.006634690798819065
+step_size: 1.0
+itr:  181    return before update:  0.12
+itr:  181    return after update:  0.581
+
+improve: -0.0023213333915919065
+kl: 0.007206649519503117
+step_size: 0.8
+itr:  182    return before update:  0.121
+itr:  182    return after update:  0.45
+
+improve: -0.00497496547177434
+kl: 0.0044070347212255
+step_size: 1.0
+itr:  183    return before update:  0.196
+itr:  183    return after update:  0.619
+
+improve: -0.00544770760461688
+kl: 0.006552594248205423
+step_size: 1.0
+itr:  184    return before update:  0.1
+itr:  184    return after update:  0.475
+
+improve: -0.004986765328794718
+kl: 0.007093013729900122
+step_size: 1.0
+itr:  185    return before update:  0.131
+itr:  185    return after update:  0.452
+
+improve: -0.0034951961133629084
+kl: 0.007955712266266346
+step_size: 0.40960000000000013
+itr:  186    return before update:  0.099
+itr:  186    return after update:  0.424
+
+improve: -0.0019714748486876488
+kl: 0.009263833984732628
+step_size: 0.8
+itr:  187    return before update:  0.081
+itr:  187    return after update:  0.371
+
+improve: -0.0014196792617440224
+kl: 0.008677261881530285
+step_size: 1.0
+itr:  188    return before update:  0.158
+itr:  188    return after update:  0.6
+
+improve: -0.008609538897871971
+kl: 0.00903394166380167
+step_size: 0.5120000000000001
+itr:  189    return before update:  0.09
+itr:  189    return after update:  0.476
+
+improve: -0.008756257593631744
+kl: 0.009540004655718803
+step_size: 1.0
+itr:  190    return before update:  0.125
+itr:  190    return after update:  0.493
+   inner RL loss: 0.0017155797482701018
+   outer RL loss: -0.008756225928664207
+
+improve: -0.0012320883106440306
+kl: 0.0011784821981564164
+step_size: 1.0
+itr:  191    return before update:  0.12
+itr:  191    return after update:  0.472
+
+improve: -0.006566954310983419
+kl: 0.009678955189883709
+step_size: 1.0
+itr:  192    return before update:  0.118
+itr:  192    return after update:  0.381
+
+improve: -0.005388482008129358
+kl: 0.0053632138296961784
+step_size: 1.0
+itr:  193    return before update:  0.11
+itr:  193    return after update:  0.412
+
+improve: -0.007990221492946148
+kl: 0.008522910997271538
+step_size: 0.8
+itr:  194    return before update:  0.131
+itr:  194    return after update:  0.575
+
+improve: -0.003639200469478965
+kl: 0.001955688465386629
+step_size: 1.0
+itr:  195    return before update:  0.105
+itr:  195    return after update:  0.437
+
+improve: -0.005053748842328787
+kl: 0.008724669925868511
+step_size: 0.6400000000000001
+itr:  196    return before update:  0.098
+itr:  196    return after update:  0.4
+
+improve: -0.010212399996817112
+kl: 0.007899975404143333
+step_size: 0.8
+itr:  197    return before update:  0.158
+itr:  197    return after update:  0.521
+
+improve: -0.005605903919786215
+kl: 0.009614121168851852
+step_size: 1.0
+itr:  198    return before update:  0.085
+itr:  198    return after update:  0.378
+
+improve: -0.00542629836127162
+kl: 0.008202391676604748
+step_size: 1.0
+itr:  199    return before update:  0.098
+itr:  199    return after update:  0.45
+
+improve: -0.003904467448592186
+kl: 0.007669748272746801
+step_size: 0.8
+itr:  200    return before update:  0.13
+itr:  200    return after update:  0.575
+   inner RL loss: 0.00033126620692200957
+   outer RL loss: -0.003904453245922923
+
+improve: -0.003419006709009409
+kl: 0.0063417525961995125
+step_size: 1.0
+itr:  201    return before update:  0.088
+itr:  201    return after update:  0.373
+
+improve: -0.0001019557093968615
+kl: 0.009194034151732922
+step_size: 0.6400000000000001
+itr:  202    return before update:  0.11
+itr:  202    return after update:  0.474
+
+improve: -0.01371833961457014
+kl: 0.007510636933147907
+step_size: 0.8
+itr:  203    return before update:  0.178
+itr:  203    return after update:  0.537
+
+improve: -0.011304531246423721
+kl: 0.005929522681981325
+step_size: 1.0
+itr:  204    return before update:  0.151
+itr:  204    return after update:  0.602
+
+improve: -0.004864007234573364
+kl: 0.0034133815206587315
+step_size: 1.0
+itr:  205    return before update:  0.172
+itr:  205    return after update:  0.484
+
+improve: -0.0017561132553964853
+kl: 0.006560324691236019
+step_size: 1.0
+itr:  206    return before update:  0.118
+itr:  206    return after update:  0.475
+
+improve: -0.0030581201426684856
+kl: 0.009001298807561398
+step_size: 1.0
+itr:  207    return before update:  0.171
+itr:  207    return after update:  0.456
+
+improve: -0.010031686164438725
+kl: 0.007009132299572229
+step_size: 0.8
+itr:  208    return before update:  0.096
+itr:  208    return after update:  0.411
+
+improve: -0.008808852173388004
+kl: 0.007916194386780262
+step_size: 0.8
+itr:  209    return before update:  0.113
+itr:  209    return after update:  0.522
+
+improve: -0.011855821125209332
+kl: 0.006701829843223095
+step_size: 1.0
+itr:  210    return before update:  0.139
+itr:  210    return after update:  0.514
+   inner RL loss: 0.008947446333331754
+   outer RL loss: -0.011855843476951122
+
+improve: -0.005667203105986118
+kl: 0.008528221398591995
+step_size: 0.8
+itr:  211    return before update:  0.132
+itr:  211    return after update:  0.554
+
+improve: -0.0029665264301002026
+kl: 0.007415776140987873
+step_size: 0.8
+itr:  212    return before update:  0.129
+itr:  212    return after update:  0.525
+
+improve: -0.007032034453004599
+kl: 0.008905316703021526
+step_size: 0.6400000000000001
+itr:  213    return before update:  0.175
+itr:  213    return after update:  0.675
+
+improve: -0.0036376502830535173
+kl: 0.007836825214326382
+step_size: 0.6400000000000001
+itr:  214    return before update:  0.104
+itr:  214    return after update:  0.425
+
+improve: -0.002426060615107417
+kl: 0.002239722292870283
+step_size: 1.0
+itr:  215    return before update:  0.127
+itr:  215    return after update:  0.525
+
+improve: -0.004596518352627754
+kl: 0.009988078847527504
+step_size: 0.8
+itr:  216    return before update:  0.111
+itr:  216    return after update:  0.45
+
+improve: -0.0012327033327892423
+kl: 0.002124662511050701
+step_size: 1.0
+itr:  217    return before update:  0.104
+itr:  217    return after update:  0.45
+
+improve: -0.002413336653262377
+kl: 0.004313225857913494
+step_size: 0.32768000000000014
+itr:  218    return before update:  0.1
+itr:  218    return after update:  0.375
+
+improve: -0.004244793206453323
+kl: 0.005406832322478294
+step_size: 1.0
+itr:  219    return before update:  0.1
+itr:  219    return after update:  0.45
+
+improve: -0.011301551945507526
+kl: 0.008845160715281963
+step_size: 1.0
+itr:  220    return before update:  0.126
+itr:  220    return after update:  0.40792
+   inner RL loss: -0.0033095340244472028
+   outer RL loss: -0.01186042744666338
+
+improve: -0.0051326509565114975
+kl: 0.006821373011916876
+step_size: 0.8
+itr:  221    return before update:  0.093
+itr:  221    return after update:  0.451
+
+improve: -0.002825339324772358
+kl: 0.003753897501155734
+step_size: 1.0
+itr:  222    return before update:  0.159
+itr:  222    return after update:  0.56899
+
+improve: -0.0019967476837337017
+kl: 0.00674424460157752
+step_size: 1.0
+itr:  223    return before update:  0.136
+itr:  223    return after update:  0.525
+
+improve: -0.004556502681225538
+kl: 0.009566421620547771
+step_size: 1.0
+itr:  224    return before update:  0.104
+itr:  224    return after update:  0.425
+
+improve: -0.001996383536607027
+kl: 0.007208728697150946
+step_size: 1.0
+itr:  225    return before update:  0.088
+itr:  225    return after update:  0.45
+
+improve: -0.0028425194323062897
+kl: 0.008997603319585323
+step_size: 0.8
+itr:  226    return before update:  0.159
+itr:  226    return after update:  0.6
+
+improve: -0.0011009027948603034
+kl: 0.00992361269891262
+step_size: 0.8
+itr:  227    return before update:  0.104
+itr:  227    return after update:  0.445
+
+improve: -0.0008801572257652879
+kl: 0.00924934446811676
+step_size: 1.0
+itr:  228    return before update:  0.129
+itr:  228    return after update:  0.575
+
+improve: -0.0018896603723987937
+kl: 0.00817407388240099
+step_size: 1.0
+itr:  229    return before update:  0.126
+itr:  229    return after update:  0.55
+
+improve: -0.004682340659201145
+kl: 0.00490387249737978
+step_size: 0.5120000000000001
+itr:  230    return before update:  0.096
+itr:  230    return after update:  0.35
+   inner RL loss: 0.00012985894863959402
+   outer RL loss: -0.004682331811636686
+
+improve: -0.007160615641623735
+kl: 0.009010663256049156
+step_size: 0.8
+itr:  231    return before update:  0.12
+itr:  231    return after update:  0.525
+
+improve: -0.0015549177769571543
+kl: 0.005167283117771149
+step_size: 0.8
+itr:  232    return before update:  0.144
+itr:  232    return after update:  0.55
+
+improve: -0.0018788360757753253
+kl: 0.005581090692430735
+step_size: 0.6400000000000001
+itr:  233    return before update:  0.154
+itr:  233    return after update:  0.524
+
+improve: -0.004784474149346352
+kl: 0.007415153086185455
+step_size: 0.6400000000000001
+itr:  234    return before update:  0.103
+itr:  234    return after update:  0.375
+
+improve: -0.005883972160518169
+kl: 0.005598953925073147
+step_size: 0.40960000000000013
+itr:  235    return before update:  0.08
+itr:  235    return after update:  0.448
+
+improve: -0.0003435353864915669
+kl: 0.0038842421490699053
+step_size: 0.2621440000000001
+itr:  236    return before update:  0.138
+itr:  236    return after update:  0.468
+
+improve: -0.0013564544497057796
+kl: 0.0012072839308530092
+step_size: 1.0
+itr:  237    return before update:  0.125
+itr:  237    return after update:  0.45
+
+improve: -0.003625675104558468
+kl: 0.008216586895287037
+step_size: 0.8
+itr:  238    return before update:  0.136
+itr:  238    return after update:  0.473
+
+improve: -0.0031155741307884455
+kl: 0.008838600479066372
+step_size: 0.8
+itr:  239    return before update:  0.094
+itr:  239    return after update:  0.4
+
+improve: -0.005696394480764866
+kl: 0.007633239962160587
+step_size: 0.5120000000000001
+itr:  240    return before update:  0.123
+itr:  240    return after update:  0.55
+   inner RL loss: 0.0043172833509743215
+   outer RL loss: -0.005696368403732777
+
+improve: -0.00206970633007586
+kl: 0.002562262350693345
+step_size: 1.0
+itr:  241    return before update:  0.126
+itr:  241    return after update:  0.623
+
+improve: -0.003923698328435421
+kl: 0.0028497411403805017
+step_size: 1.0
+itr:  242    return before update:  0.127
+itr:  242    return after update:  0.569
+
+improve: -0.004840576555579901
+kl: 0.0077179307118058205
+step_size: 0.6400000000000001
+itr:  243    return before update:  0.124
+itr:  243    return after update:  0.477
+
+improve: -0.002086685039103031
+kl: 0.008217093534767628
+step_size: 0.6400000000000001
+itr:  244    return before update:  0.2
+itr:  244    return after update:  0.625
+
+improve: -0.0006226286059245467
+kl: 0.0015016670804470778
+step_size: 0.5120000000000001
+itr:  245    return before update:  0.122
+itr:  245    return after update:  0.56999
+
+improve: -0.004757469519972801
+kl: 0.008014122024178505
+step_size: 0.8
+itr:  246    return before update:  0.149
+itr:  246    return after update:  0.575
+
+improve: -0.0015381884295493364
+kl: 0.0017243927577510476
+step_size: 1.0
+itr:  247    return before update:  0.116
+itr:  247    return after update:  0.443
+
+improve: -3.13364143949002e-05
+kl: 0.004203328397125006
+step_size: 0.8
+itr:  248    return before update:  0.153
+itr:  248    return after update:  0.575
+
+improve: -0.0061473362147808075
+kl: 0.007512267678976059
+step_size: 1.0
+itr:  249    return before update:  0.091
+itr:  249    return after update:  0.478
+
+improve: -0.0011211305391043425
+kl: 0.005553589202463627
+step_size: 0.6400000000000001
+itr:  250    return before update:  0.128
+itr:  250    return after update:  0.474
+   inner RL loss: 0.006060084269847721
+   outer RL loss: -0.0011211046949028969
+
+improve: -0.00199669087305665
+kl: 0.007438352797180414
+step_size: 0.5120000000000001
+itr:  251    return before update:  0.153
+itr:  251    return after update:  0.525
+
+improve: -0.004945860244333744
+kl: 0.005469145253300667
+step_size: 0.6400000000000001
+itr:  252    return before update:  0.129
+itr:  252    return after update:  0.447
+
+improve: -0.0027504691388458014
+kl: 0.00807503703981638
+step_size: 0.8
+itr:  253    return before update:  0.171
+itr:  253    return after update:  0.626
+
+improve: -0.003926554694771767
+kl: 0.006830873899161816
+step_size: 0.5120000000000001
+itr:  254    return before update:  0.133
+itr:  254    return after update:  0.503
+
+improve: -0.004495465196669102
+kl: 0.008608990348875523
+step_size: 0.5120000000000001
+itr:  255    return before update:  0.168
+itr:  255    return after update:  0.6
+
+improve: -0.004188997205346823
+kl: 0.006936725229024887
+step_size: 0.5120000000000001
+itr:  256    return before update:  0.131
+itr:  256    return after update:  0.425
+
+improve: -0.0013471500715240836
+kl: 0.005984493996948004
+step_size: 0.8
+itr:  257    return before update:  0.134
+itr:  257    return after update:  0.55
+
+improve: -0.0009276500786654651
+kl: 0.0036111376248300076
+step_size: 1.0
+itr:  258    return before update:  0.116
+itr:  258    return after update:  0.45
+
+improve: -0.0009021646110340953
+kl: 0.008855998516082764
+step_size: 1.0
+itr:  259    return before update:  0.101
+itr:  259    return after update:  0.425
+
+improve: -0.005633887834846973
+kl: 0.009508371353149414
+step_size: 0.5120000000000001
+itr:  260    return before update:  0.093
+itr:  260    return after update:  0.331
+   inner RL loss: 0.00028828964568674567
+   outer RL loss: -0.00563387293368578
+
+improve: -0.003134119790047407
+kl: 0.0032459490466862917
+step_size: 1.0
+itr:  261    return before update:  0.144
+itr:  261    return after update:  0.569
+
+improve: -0.001852652640081942
+kl: 0.009325794875621796
+step_size: 1.0
+itr:  262    return before update:  0.135
+itr:  262    return after update:  0.529
+
+improve: -0.0034128983970731497
+kl: 0.008598392829298973
+step_size: 0.6400000000000001
+itr:  263    return before update:  0.135
+itr:  263    return after update:  0.503
+
+improve: -0.0018198878969997168
+kl: 0.00579457450658083
+step_size: 1.0
+itr:  264    return before update:  0.13
+itr:  264    return after update:  0.45
+
+improve: -0.001013115979731083
+kl: 0.006267714314162731
+step_size: 0.8
+itr:  265    return before update:  0.103
+itr:  265    return after update:  0.409
+
+improve: -0.0007130075246095657
+kl: 0.008143754675984383
+step_size: 0.5120000000000001
+itr:  266    return before update:  0.095
+itr:  266    return after update:  0.48398998
+
+improve: -0.00034320540726184845
+kl: 0.003669984173029661
+step_size: 0.5120000000000001
+itr:  267    return before update:  0.098
+itr:  267    return after update:  0.4
+
+improve: -0.0036643072962760925
+kl: 0.001125945127569139
+step_size: 0.5120000000000001
+itr:  268    return before update:  0.17
+itr:  268    return after update:  0.56798
+
+improve: -0.01672322303056717
+kl: 0.007640139199793339
+step_size: 0.5120000000000001
+itr:  269    return before update:  0.163
+itr:  269    return after update:  0.496
+
+improve: -0.0007558214128948748
+kl: 0.0014741080813109875
+step_size: 1.0
+itr:  270    return before update:  0.099
+itr:  270    return after update:  0.424
+   inner RL loss: 0.001081131410319358
+   outer RL loss: -0.0007558395154774189
+
+improve: -0.00010107683192472905
+kl: 0.0040787397883832455
+step_size: 0.8
+itr:  271    return before update:  0.16
+itr:  271    return after update:  0.574
+
+improve: -0.027821268886327744
+kl: 0.005285212770104408
+step_size: 0.2621440000000001
+itr:  272    return before update:  0.159
+itr:  272    return after update:  0.575
+
+improve: -0.001914689433760941
+kl: 0.009234469383955002
+step_size: 0.5120000000000001
+itr:  273    return before update:  0.134
+itr:  273    return after update:  0.45
+
+improve: -0.0003461214364506304
+kl: 0.00710309436544776
+step_size: 0.2097152000000001
+itr:  274    return before update:  0.102
+itr:  274    return after update:  0.399
+
+improve: -0.0010954287135973573
+kl: 0.004663974512368441
+step_size: 0.8
+itr:  275    return before update:  0.104
+itr:  275    return after update:  0.374
+
+improve: -0.006606021896004677
+kl: 0.00946728978306055
+step_size: 1.0
+itr:  276    return before update:  0.098
+itr:  276    return after update:  0.38990006
+
+improve: -0.001024375669658184
+kl: 0.007319718599319458
+step_size: 0.8
+itr:  277    return before update:  0.107
+itr:  277    return after update:  0.425
+
+improve: -0.003116699866950512
+kl: 0.00672660768032074
+step_size: 1.0
+itr:  278    return before update:  0.155
+itr:  278    return after update:  0.6
+
+improve: -0.0053834873251616955
+kl: 0.007870822213590145
+step_size: 1.0
+itr:  279    return before update:  0.144
+itr:  279    return after update:  0.5188999
+
+improve: -0.003502843203023076
+kl: 0.007450333330780268
+step_size: 1.0
+itr:  280    return before update:  0.118
+itr:  280    return after update:  0.45
+   inner RL loss: 0.00265336728625698
+   outer RL loss: -0.003502828534692526
+
+improve: -0.02065182663500309
+kl: 0.006316605024039745
+step_size: 0.8
+itr:  281    return before update:  0.113
+itr:  281    return after update:  0.425
+
+improve: -0.0009147681412287056
+kl: 0.008004864677786827
+step_size: 1.0
+itr:  282    return before update:  0.141
+itr:  282    return after update:  0.475
+
+improve: -0.0003324998542666435
+kl: 0.005517964251339436
+step_size: 1.0
+itr:  283    return before update:  0.092
+itr:  283    return after update:  0.428
+
+improve: -0.004209561739116907
+kl: 0.007709388621151447
+step_size: 1.0
+itr:  284    return before update:  0.14
+itr:  284    return after update:  0.49
+
+improve: -0.0015192662831395864
+kl: 0.007206163369119167
+step_size: 1.0
+itr:  285    return before update:  0.115
+itr:  285    return after update:  0.47197998
+
+improve: -0.007384951692074537
+kl: 0.009447348304092884
+step_size: 1.0
+itr:  286    return before update:  0.103
+itr:  286    return after update:  0.421
+
+improve: -0.0025176568888127804
+kl: 0.0053521255031228065
+step_size: 0.5120000000000001
+itr:  287    return before update:  0.093
+itr:  287    return after update:  0.427
+
+improve: -0.00046002177987247705
+kl: 0.0017053431365638971
+step_size: 0.32768000000000014
+itr:  288    return before update:  0.123
+itr:  288    return after update:  0.525
+
+improve: -0.0022376221604645252
+kl: 0.00923013873398304
+step_size: 0.8
+itr:  289    return before update:  0.109
+itr:  289    return after update:  0.4
+
+improve: -0.0014249250525608659
+kl: 0.008377380669116974
+step_size: 0.8
+itr:  290    return before update:  0.113
+itr:  290    return after update:  0.475
+   inner RL loss: 0.0005952326384431217
+   outer RL loss: -0.001424927031621337
+
+improve: -0.0021336267236620188
+kl: 0.007586614694446325
+step_size: 0.6400000000000001
+itr:  291    return before update:  0.139
+itr:  291    return after update:  0.475
+
+improve: -0.002339261118322611
+kl: 0.005477449856698513
+step_size: 1.0
+itr:  292    return before update:  0.119
+itr:  292    return after update:  0.449
+
+improve: -0.0010772239184007049
+kl: 0.005007196217775345
+step_size: 1.0
+itr:  293    return before update:  0.133
+itr:  293    return after update:  0.5
+
+improve: -0.005759214051067829
+kl: 0.008379656821489334
+step_size: 0.5120000000000001
+itr:  294    return before update:  0.095
+itr:  294    return after update:  0.4
+
+improve: -0.0049260761588811874
+kl: 0.006927444599568844
+step_size: 0.8
+itr:  295    return before update:  0.115
+itr:  295    return after update:  0.475
+
+improve: -0.0013772746315225959
+kl: 0.007048621773719788
+step_size: 0.6400000000000001
+itr:  296    return before update:  0.152
+itr:  296    return after update:  0.65
+
+improve: -0.002644005697220564
+kl: 0.006475897040218115
+step_size: 0.5120000000000001
+itr:  297    return before update:  0.179
+itr:  297    return after update:  0.65
+
+improve: -0.0022339248098433018
+kl: 0.00622705789282918
+step_size: 0.32768000000000014
+itr:  298    return before update:  0.146
+itr:  298    return after update:  0.55
+
+improve: -0.0012698597274720669
+kl: 0.005881928838789463
+step_size: 1.0
+itr:  299    return before update:  0.126
+itr:  299    return after update:  0.5
+
+improve: -0.001401022425852716
+kl: 0.007096616085618734
+step_size: 0.6400000000000001
+itr:  300    return before update:  0.177
+itr:  300    return after update:  0.625
+   inner RL loss: 0.0029209501954028383
+   outer RL loss: -0.001401022425852716
+
+improve: -0.0023632049560546875
+kl: 0.007395601365715265
+step_size: 1.0
+itr:  301    return before update:  0.149
+itr:  301    return after update:  0.55
+
+improve: -0.0024279386270791292
+kl: 0.002065153094008565
+step_size: 1.0
+itr:  302    return before update:  0.138
+itr:  302    return after update:  0.57
+
+improve: -0.0033010023180395365
+kl: 0.008581512607634068
+step_size: 0.8
+itr:  303    return before update:  0.086
+itr:  303    return after update:  0.3
+
+improve: -0.0031063705682754517
+kl: 0.008633183315396309
+step_size: 0.5120000000000001
+itr:  304    return before update:  0.133
+itr:  304    return after update:  0.475
+
+improve: -0.0008507072343491018
+kl: 0.008763563819229603
+step_size: 0.40960000000000013
+itr:  305    return before update:  0.089
+itr:  305    return after update:  0.349
+
+improve: -0.0026203899178653955
+kl: 0.002100196201354265
+step_size: 1.0
+itr:  306    return before update:  0.138
+itr:  306    return after update:  0.447
+
+improve: -0.003354424610733986
+kl: 0.008861081674695015
+step_size: 0.6400000000000001
+itr:  307    return before update:  0.144
+itr:  307    return after update:  0.625
+
+improve: -0.0069337026216089725
+kl: 0.008510131388902664
+step_size: 0.6400000000000001
+itr:  308    return before update:  0.121
+itr:  308    return after update:  0.475
+
+improve: -0.002696697600185871
+kl: 0.004954670090228319
+step_size: 1.0
+itr:  309    return before update:  0.115
+itr:  309    return after update:  0.499
+
+improve: -0.0009058190626092255
+kl: 0.0048224288038909435
+step_size: 1.0
+itr:  310    return before update:  0.17
+itr:  310    return after update:  0.7
+   inner RL loss: 0.0019316755468025803
+   outer RL loss: -0.0009058145806193352
+
+improve: -0.002329751383513212
+kl: 0.005571643356233835
+step_size: 1.0
+itr:  311    return before update:  0.101
+itr:  311    return after update:  0.375
+
+improve: -0.0021115895360708237
+kl: 0.007923921570181847
+step_size: 0.5120000000000001
+itr:  312    return before update:  0.116
+itr:  312    return after update:  0.525
+
+improve: -0.0034520234912633896
+kl: 0.009628890082240105
+step_size: 0.6400000000000001
+itr:  313    return before update:  0.093
+itr:  313    return after update:  0.379
+
+improve: -0.008365191519260406
+kl: 0.004339235369116068
+step_size: 1.0
+itr:  314    return before update:  0.127
+itr:  314    return after update:  0.474
+
+improve: -0.003447189461439848
+kl: 0.007818395271897316
+step_size: 0.8
+itr:  315    return before update:  0.118
+itr:  315    return after update:  0.45
+
+improve: -0.0019379571313038468
+kl: 0.0025587535928934813
+step_size: 1.0
+itr:  316    return before update:  0.133
+itr:  316    return after update:  0.6
+
+improve: -0.0022695413790643215
+kl: 0.009005764499306679
+step_size: 0.6400000000000001
+itr:  317    return before update:  0.15
+itr:  317    return after update:  0.55
+
+improve: -0.004154667723923922
+kl: 0.0035604212898761034
+step_size: 1.0
+itr:  318    return before update:  0.106
+itr:  318    return after update:  0.436
+
+improve: -0.0004071826988365501
+kl: 0.0005199720035307109
+step_size: 1.0
+itr:  319    return before update:  0.096
+itr:  319    return after update:  0.45
+
+improve: -0.0010119087528437376
+kl: 0.007349623832851648
+step_size: 0.8
+itr:  320    return before update:  0.159
+itr:  320    return after update:  0.55
+   inner RL loss: -0.0011393274391593878
+   outer RL loss: -0.0010119217913597822
+
+improve: -0.0028225111309438944
+kl: 0.0029103788547217846
+step_size: 1.0
+itr:  321    return before update:  0.091
+itr:  321    return after update:  0.421
+
+improve: -0.0020152719225734472
+kl: 0.006699302699416876
+step_size: 0.40960000000000013
+itr:  322    return before update:  0.12
+itr:  322    return after update:  0.5
+
+improve: -0.0016862151678651571
+kl: 0.0040259347297251225
+step_size: 1.0
+itr:  323    return before update:  0.12
+itr:  323    return after update:  0.427
+
+improve: -0.0004829825193155557
+kl: 0.0032694481778889894
+step_size: 0.5120000000000001
+itr:  324    return before update:  0.116
+itr:  324    return after update:  0.475
+
+improve: -0.0018493285169824958
+kl: 0.009136986918747425
+step_size: 1.0
+itr:  325    return before update:  0.124
+itr:  325    return after update:  0.55
+
+improve: -0.002048940397799015
+kl: 0.006812818348407745
+step_size: 1.0
+itr:  326    return before update:  0.147
+itr:  326    return after update:  0.55
+
+improve: -0.0017134773079305887
+kl: 0.007243928499519825
+step_size: 1.0
+itr:  327    return before update:  0.151
+itr:  327    return after update:  0.6
+
+improve: -0.005229940637946129
+kl: 0.008499827235937119
+step_size: 1.0
+itr:  328    return before update:  0.132
+itr:  328    return after update:  0.55
+
+improve: -0.00015942913887556642
+kl: 0.009540056809782982
+step_size: 0.5120000000000001
+itr:  329    return before update:  0.145
+itr:  329    return after update:  0.6
+
+improve: -0.002342257183045149
+kl: 0.005184499081224203
+step_size: 1.0
+itr:  330    return before update:  0.164
+itr:  330    return after update:  0.606
+   inner RL loss: -0.001027306795003824
+   outer RL loss: -0.0023422602098435163
+
+improve: -0.00215702666901052
+kl: 0.008203652687370777
+step_size: 0.6400000000000001
+itr:  331    return before update:  0.106
+itr:  331    return after update:  0.5
+
+improve: -0.001292276894673705
+kl: 0.001516613527201116
+step_size: 1.0
+itr:  332    return before update:  0.12
+itr:  332    return after update:  0.425
+
+improve: -0.00011444598203524947
+kl: 0.00330425170250237
+step_size: 0.6400000000000001
+itr:  333    return before update:  0.096
+itr:  333    return after update:  0.35
+
+improve: -0.0007090551662258804
+kl: 0.000700632925145328
+step_size: 0.6400000000000001
+itr:  334    return before update:  0.126
+itr:  334    return after update:  0.499
+
+improve: -0.005292398389428854
+kl: 0.008729315362870693
+step_size: 0.8
+itr:  335    return before update:  0.095
+itr:  335    return after update:  0.425
+
+improve: -0.00020935806969646364
+kl: 0.005101287737488747
+step_size: 0.40960000000000013
+itr:  336    return before update:  0.128
+itr:  336    return after update:  0.525
+
+improve: -0.001349269412457943
+kl: 0.009901161305606365
+step_size: 0.40960000000000013
+itr:  337    return before update:  0.171
+itr:  337    return after update:  0.625
+
+improve: -0.00401705875992775
+kl: 0.00480191083624959
+step_size: 1.0
+itr:  338    return before update:  0.127
+itr:  338    return after update:  0.415
+
+improve: -0.0021723946556448936
+kl: 0.007138758897781372
+step_size: 0.8
+itr:  339    return before update:  0.128
+itr:  339    return after update:  0.404
+
+improve: -0.000624208536464721
+kl: 0.0014969060430303216
+step_size: 1.0
+itr:  340    return before update:  0.118
+itr:  340    return after update:  0.424
+   inner RL loss: 0.0014222839497961103
+   outer RL loss: -0.0006241952069103718
+
+improve: -0.0013580520171672106
+kl: 0.004803250543773174
+step_size: 1.0
+itr:  341    return before update:  0.116
+itr:  341    return after update:  0.499
+
+improve: -0.0019625399727374315
+kl: 0.006247900426387787
+step_size: 1.0
+itr:  342    return before update:  0.148
+itr:  342    return after update:  0.599
+
+improve: -0.0015071057714521885
+kl: 0.0010444243671372533
+step_size: 1.0
+itr:  343    return before update:  0.087
+itr:  343    return after update:  0.495
+
+improve: -0.0008893716731108725
+kl: 0.002023228444159031
+step_size: 1.0
+itr:  344    return before update:  0.132
+itr:  344    return after update:  0.5
+
+improve: -0.001820968696847558
+kl: 0.007525607943534851
+step_size: 0.5120000000000001
+itr:  345    return before update:  0.132
+itr:  345    return after update:  0.45
+
+improve: -0.0004507533449213952
+kl: 0.0021280585788190365
+step_size: 1.0
+itr:  346    return before update:  0.122
+itr:  346    return after update:  0.625
+
+improve: -0.002406263956800103
+kl: 0.009608066640794277
+step_size: 1.0
+itr:  347    return before update:  0.092
+itr:  347    return after update:  0.383
+
+improve: -0.0009324479615315795
+kl: 0.005848786327987909
+step_size: 0.8
+itr:  348    return before update:  0.14
+itr:  348    return after update:  0.525
+
+improve: -0.00025521276984363794
+kl: 0.0035246151965111494
+step_size: 1.0
+itr:  349    return before update:  0.105
+itr:  349    return after update:  0.4
+
+improve: -0.0016818746225908399
+kl: 0.003094272455200553
+step_size: 0.32768000000000014
+itr:  350    return before update:  0.167
+itr:  350    return after update:  0.52763987
+   inner RL loss: -0.005615348881110549
+   outer RL loss: 0.0008007533615455031
+
+improve: -0.012096097692847252
+kl: 0.003067490179091692
+step_size: 1.0
+itr:  351    return before update:  0.146
+itr:  351    return after update:  0.4805698
+
+improve: -0.007046976126730442
+kl: 0.004099859856069088
+step_size: 1.0
+itr:  352    return before update:  0.121
+itr:  352    return after update:  0.48889
+
+improve: -0.0056036352179944515
+kl: 0.004621502943336964
+step_size: 1.0
+itr:  353    return before update:  0.121
+itr:  353    return after update:  0.50591993
+
+improve: -0.00441382871940732
+kl: 0.0017028648871928453
+step_size: 1.0
+itr:  354    return before update:  0.188
+itr:  354    return after update:  0.63484997
+
+improve: -0.0034364424645900726
+kl: 0.007981974631547928
+step_size: 0.5120000000000001
+itr:  355    return before update:  0.137
+itr:  355    return after update:  0.479
+
+improve: -0.001230659894645214
+kl: 0.0008778817136771977
+step_size: 1.0
+itr:  356    return before update:  0.115
+itr:  356    return after update:  0.497
+
+improve: -3.637481859186664e-05
+kl: 0.0032659806311130524
+step_size: 0.8
+itr:  357    return before update:  0.133
+itr:  357    return after update:  0.5
+
+improve: -0.008932954631745815
+kl: 0.0017911801114678383
+step_size: 1.0
+itr:  358    return before update:  0.137
+itr:  358    return after update:  0.42197984
+
+improve: -0.003349768463522196
+kl: 0.000689597858581692
+step_size: 1.0
+itr:  359    return before update:  0.143
+itr:  359    return after update:  0.5189399
+
+improve: -0.0042687999084591866
+kl: 0.006988421082496643
+step_size: 1.0
+itr:  360    return before update:  0.125
+itr:  360    return after update:  0.37143987
+   inner RL loss: 0.0005397084722062572
+   outer RL loss: -0.007302083075046539
+
+improve: -0.008874279446899891
+kl: 0.0052798595279455185
+step_size: 0.8
+itr:  361    return before update:  0.178
+itr:  361    return after update:  0.49974975
+
+improve: -0.009827794507145882
+kl: 0.0054211909882724285
+step_size: 1.0
+itr:  362    return before update:  0.118
+itr:  362    return after update:  0.40556005
+
+improve: -0.00850251130759716
+kl: 0.004744903650134802
+step_size: 1.0
+itr:  363    return before update:  0.132
+itr:  363    return after update:  0.46678993
+
+improve: -0.02471199445426464
+kl: 0.00921360868960619
+step_size: 1.0
+itr:  364    return before update:  0.173
+itr:  364    return after update:  0.5820791
+
+improve: -0.008825212717056274
+kl: 0.004572628065943718
+step_size: 1.0
+itr:  365    return before update:  0.153
+itr:  365    return after update:  0.4837298
+
+improve: -0.0015943420585244894
+kl: 0.005186202935874462
+step_size: 0.13421772800000006
+itr:  366    return before update:  0.099
+itr:  366    return after update:  0.42474976
+
+improve: -0.0031681684777140617
+kl: 0.006893884390592575
+step_size: 0.5120000000000001
+itr:  367    return before update:  0.127
+itr:  367    return after update:  0.55
+
+improve: -0.009126171469688416
+kl: 0.006827202625572681
+step_size: 0.8
+itr:  368    return before update:  0.12
+itr:  368    return after update:  0.42856017
+
+improve: -0.0038619586266577244
+kl: 0.004378520883619785
+step_size: 0.6400000000000001
+itr:  369    return before update:  0.081
+itr:  369    return after update:  0.33585986
+
+improve: -0.00421969685703516
+kl: 0.0047801947221159935
+step_size: 1.0
+itr:  370    return before update:  0.065
+itr:  370    return after update:  0.36692002
+   inner RL loss: 0.00797778850828763
+   outer RL loss: -0.0024683289229869843
+
+improve: -0.0007113394676707685
+kl: 0.0057086460292339325
+step_size: 0.40960000000000013
+itr:  371    return before update:  0.121
+itr:  371    return after update:  0.50299
+
+improve: -0.005173741839826107
+kl: 0.0036180440802127123
+step_size: 1.0
+itr:  372    return before update:  0.067
+itr:  372    return after update:  0.28
+
+improve: -0.005200178362429142
+kl: 0.009001742117106915
+step_size: 0.32768000000000014
+itr:  373    return before update:  0.124
+itr:  373    return after update:  0.525
+
+improve: -0.004427329171448946
+kl: 0.007335982285439968
+step_size: 0.2621440000000001
+itr:  374    return before update:  0.154
+itr:  374    return after update:  0.49997997
+
+improve: -0.003859178628772497
+kl: 0.00944287609308958
+step_size: 1.0
+itr:  375    return before update:  0.091
+itr:  375    return after update:  0.429
+
+improve: -0.002449750667437911
+kl: 0.0015206877142190933
+step_size: 1.0
+itr:  376    return before update:  0.113
+itr:  376    return after update:  0.391
+
+improve: -0.0018317437497898936
+kl: 0.001630472717806697
+step_size: 1.0
+itr:  377    return before update:  0.102
+itr:  377    return after update:  0.425
+
+improve: -0.0008507382008247077
+kl: 0.004378599114716053
+step_size: 1.0
+itr:  378    return before update:  0.174
+itr:  378    return after update:  0.6
+
+improve: -0.0014032903127372265
+kl: 0.0013894971925765276
+step_size: 1.0
+itr:  379    return before update:  0.143
+itr:  379    return after update:  0.524
+
+improve: -0.005427359137684107
+kl: 0.005025546066462994
+step_size: 1.0
+itr:  380    return before update:  0.136
+itr:  380    return after update:  0.53081983
+   inner RL loss: 0.0032790580502478407
+   outer RL loss: -0.0038099412340670824
+
+improve: -0.003420398570597172
+kl: 0.005314159207046032
+step_size: 1.0
+itr:  381    return before update:  0.144
+itr:  381    return after update:  0.57399
+
+improve: -0.0016141339438036084
+kl: 0.008263087831437588
+step_size: 1.0
+itr:  382    return before update:  0.126
+itr:  382    return after update:  0.524
+
+improve: -0.0026083015836775303
+kl: 0.0004452182329259813
+step_size: 1.0
+itr:  383    return before update:  0.156
+itr:  383    return after update:  0.62197
+
+improve: -0.0036332132294774055
+kl: 0.0068464381620287895
+step_size: 0.5120000000000001
+itr:  384    return before update:  0.076
+itr:  384    return after update:  0.3
+
+improve: -0.0034452255349606276
+kl: 0.009560495615005493
+step_size: 0.6400000000000001
+itr:  385    return before update:  0.1
+itr:  385    return after update:  0.375
+
+improve: -0.0009492653771303594
+kl: 0.009695975109934807
+step_size: 0.40960000000000013
+itr:  386    return before update:  0.131
+itr:  386    return after update:  0.5
+
+improve: -0.0029472452588379383
+kl: 0.003304519224911928
+step_size: 1.0
+itr:  387    return before update:  0.145
+itr:  387    return after update:  0.55
+
+improve: -0.0012685430701822042
+kl: 0.005384680349379778
+step_size: 1.0
+itr:  388    return before update:  0.119
+itr:  388    return after update:  0.5
+
+improve: -0.009479696862399578
+kl: 0.004276133142411709
+step_size: 1.0
+itr:  389    return before update:  0.147
+itr:  389    return after update:  0.52576
+
+improve: -0.0019780569709837437
+kl: 0.0013317924458533525
+step_size: 1.0
+itr:  390    return before update:  0.101
+itr:  390    return after update:  0.422
+   inner RL loss: 0.00017220466979779304
+   outer RL loss: -0.001978057436645031
+
+improve: -0.002100537996739149
+kl: 0.0032964940182864666
+step_size: 1.0
+itr:  391    return before update:  0.178
+itr:  391    return after update:  0.675
+
+improve: -0.01837809570133686
+kl: 0.007649827748537064
+step_size: 0.6400000000000001
+itr:  392    return before update:  0.186
+itr:  392    return after update:  0.49823987
+
+improve: -0.003071630373597145
+kl: 0.0017011798918247223
+step_size: 1.0
+itr:  393    return before update:  0.094
+itr:  393    return after update:  0.28888997
+
+improve: -0.0050572906620800495
+kl: 0.005978901404887438
+step_size: 0.8
+itr:  394    return before update:  0.187
+itr:  394    return after update:  0.64798
+
+improve: -0.0009581753984093666
+kl: 0.0038609132170677185
+step_size: 0.32768000000000014
+itr:  395    return before update:  0.154
+itr:  395    return after update:  0.624
+
+improve: -0.0044008176773786545
+kl: 0.008562047965824604
+step_size: 0.8
+itr:  396    return before update:  0.112
+itr:  396    return after update:  0.475
+
+improve: -0.0007645568111911416
+kl: 0.004117329139262438
+step_size: 1.0
+itr:  397    return before update:  0.085
+itr:  397    return after update:  0.35
+
+improve: -0.005611015483736992
+kl: 0.0021531658712774515
+step_size: 1.0
+itr:  398    return before update:  0.188
+itr:  398    return after update:  0.5510193
+
+improve: -0.005753279197961092
+kl: 0.009603130631148815
+step_size: 0.6400000000000001
+itr:  399    return before update:  0.107
+itr:  399    return after update:  0.42875975
+
+improve: -0.002158333081752062
+kl: 0.0043214899487793446
+step_size: 0.6400000000000001
+itr:  400    return before update:  0.132
+itr:  400    return after update:  0.55
+   inner RL loss: 0.0014036432141438127
+   outer RL loss: -0.00215831003151834
+
+improve: -0.00468546524643898
+kl: 0.0037534101866185665
+step_size: 1.0
+itr:  401    return before update:  0.102
+itr:  401    return after update:  0.41196
+
+improve: -0.004210207145661116
+kl: 0.009180329740047455
+step_size: 0.5120000000000001
+itr:  402    return before update:  0.129
+itr:  402    return after update:  0.5
+
+improve: -0.004890499636530876
+kl: 0.00206251279450953
+step_size: 1.0
+itr:  403    return before update:  0.127
+itr:  403    return after update:  0.5189399
+
+improve: -0.002228999510407448
+kl: 0.0063277967274188995
+step_size: 0.6400000000000001
+itr:  404    return before update:  0.088
+itr:  404    return after update:  0.4
+
+improve: -0.007211881689727306
+kl: 0.005304219201207161
+step_size: 1.0
+itr:  405    return before update:  0.115
+itr:  405    return after update:  0.41360012
+
+improve: -0.003229319816455245
+kl: 0.003045187098905444
+step_size: 1.0
+itr:  406    return before update:  0.197
+itr:  406    return after update:  0.666
+
+improve: -0.004039869178086519
+kl: 0.006015538703650236
+step_size: 0.5120000000000001
+itr:  407    return before update:  0.132
+itr:  407    return after update:  0.575
+
+improve: -0.0011068633757531643
+kl: 0.0023446111008524895
+step_size: 1.0
+itr:  408    return before update:  0.166
+itr:  408    return after update:  0.55
+
+improve: -0.0026658913120627403
+kl: 0.0056611234322190285
+step_size: 0.32768000000000014
+itr:  409    return before update:  0.161
+itr:  409    return after update:  0.65
+
+improve: -0.005982952192425728
+kl: 0.009205932728946209
+step_size: 0.8
+itr:  410    return before update:  0.148
+itr:  410    return after update:  0.625
+   inner RL loss: 0.0020124317146837712
+   outer RL loss: -0.00598295871168375
+
+improve: -0.0033338507637381554
+kl: 0.004840704146772623
+step_size: 0.2621440000000001
+itr:  411    return before update:  0.11
+itr:  411    return after update:  0.425
+
+improve: -0.005230156239122152
+kl: 0.003812796203419566
+step_size: 1.0
+itr:  412    return before update:  0.1
+itr:  412    return after update:  0.482
+
+improve: -0.0031394255347549915
+kl: 0.00518218195065856
+step_size: 0.2621440000000001
+itr:  413    return before update:  0.13
+itr:  413    return after update:  0.525
+
+improve: -0.004082780331373215
+kl: 0.009940183721482754
+step_size: 0.32768000000000014
+itr:  414    return before update:  0.104
+itr:  414    return after update:  0.4
+
+improve: -0.0009081849711947143
+kl: 0.006267228163778782
+step_size: 0.40960000000000013
+itr:  415    return before update:  0.093
+itr:  415    return after update:  0.4
+
+improve: -0.004571325611323118
+kl: 0.004883379675447941
+step_size: 0.32768000000000014
+itr:  416    return before update:  0.117
+itr:  416    return after update:  0.525
+
+improve: -0.003946785815060139
+kl: 0.00462746899574995
+step_size: 0.32768000000000014
+itr:  417    return before update:  0.09
+itr:  417    return after update:  0.425
+
+improve: -0.0016517160693183541
+kl: 0.004848894663155079
+step_size: 1.0
+itr:  418    return before update:  0.115
+itr:  418    return after update:  0.45
+
+improve: -0.004843323491513729
+kl: 0.005522059742361307
+step_size: 1.0
+itr:  419    return before update:  0.125
+itr:  419    return after update:  0.467
+
+improve: -0.007253104820847511
+kl: 0.0073688579723238945
+step_size: 0.6400000000000001
+itr:  420    return before update:  0.067
+itr:  420    return after update:  0.3
+   inner RL loss: -0.0007492228876799345
+   outer RL loss: -0.00725308945402503
+
+improve: -0.002173969056457281
+kl: 0.0007876550662331283
+step_size: 1.0
+itr:  421    return before update:  0.151
+itr:  421    return after update:  0.596
+
+improve: -0.0028342106379568577
+kl: 0.007562486920505762
+step_size: 1.0
+itr:  422    return before update:  0.17
+itr:  422    return after update:  0.625
+
+improve: -0.002454066649079323
+kl: 0.0033184154890477657
+step_size: 1.0
+itr:  423    return before update:  0.128
+itr:  423    return after update:  0.5
+
+improve: -0.006223456934094429
+kl: 0.008537685498595238
+step_size: 0.6400000000000001
+itr:  424    return before update:  0.136
+itr:  424    return after update:  0.55
+
+improve: -0.0017912297043949366
+kl: 0.006291584577411413
+step_size: 1.0
+itr:  425    return before update:  0.145
+itr:  425    return after update:  0.55
+
+improve: -0.0009309464367106557
+kl: 0.002822084352374077
+step_size: 1.0
+itr:  426    return before update:  0.11
+itr:  426    return after update:  0.525
+
+improve: -0.0043062325567007065
+kl: 0.006798670627176762
+step_size: 0.5120000000000001
+itr:  427    return before update:  0.119
+itr:  427    return after update:  0.425
+
+improve: -0.005970322526991367
+kl: 0.008229074068367481
+step_size: 0.8
+itr:  428    return before update:  0.117
+itr:  428    return after update:  0.475
+
+improve: -0.005510480143129826
+kl: 0.009047313593327999
+step_size: 0.8
+itr:  429    return before update:  0.124
+itr:  429    return after update:  0.427
+
+improve: -0.0021997825242578983
+kl: 0.003551030997186899
+step_size: 1.0
+itr:  430    return before update:  0.113
+itr:  430    return after update:  0.45
+   inner RL loss: 0.0003445468842983246
+   outer RL loss: -0.002199788112193346
+
+improve: -0.0007031916175037622
+kl: 0.0067995889112353325
+step_size: 0.40960000000000013
+itr:  431    return before update:  0.181
+itr:  431    return after update:  0.675
+
+improve: -0.0006221735966391861
+kl: 0.0033680677879601717
+step_size: 0.2621440000000001
+itr:  432    return before update:  0.185
+itr:  432    return after update:  0.675
+
+improve: -0.0032872864976525307
+kl: 0.003173481673002243
+step_size: 1.0
+itr:  433    return before update:  0.113
+itr:  433    return after update:  0.47096997
+
+improve: -0.0019720366690307856
+kl: 0.007714678533375263
+step_size: 0.8
+itr:  434    return before update:  0.153
+itr:  434    return after update:  0.54975015
+
+improve: -0.005281797144562006
+kl: 0.005172977689653635
+step_size: 1.0
+itr:  435    return before update:  0.104
+itr:  435    return after update:  0.36591002
+
+improve: -0.003175491699948907
+kl: 0.0008130717324092984
+step_size: 1.0
+itr:  436    return before update:  0.133
+itr:  436    return after update:  0.39191997
+
+improve: -0.004681579302996397
+kl: 0.0066132009960711
+step_size: 1.0
+itr:  437    return before update:  0.123
+itr:  437    return after update:  0.524
+
+improve: -0.002775635104626417
+kl: 0.0051933107897639275
+step_size: 0.8
+itr:  438    return before update:  0.106
+itr:  438    return after update:  0.449
+
+improve: -0.004131324589252472
+kl: 0.009159509092569351
+step_size: 0.8
+itr:  439    return before update:  0.089
+itr:  439    return after update:  0.45
+
+improve: -0.003263539867475629
+kl: 0.003024898935109377
+step_size: 1.0
+itr:  440    return before update:  0.153
+itr:  440    return after update:  0.54191995
+   inner RL loss: -0.001791123702423647
+   outer RL loss: -0.0018381073605269194
+
+improve: -0.003189502051100135
+kl: 0.005509168840944767
+step_size: 0.2621440000000001
+itr:  441    return before update:  0.161
+itr:  441    return after update:  0.6
+
+improve: -0.005272575654089451
+kl: 0.009280405007302761
+step_size: 0.6400000000000001
+itr:  442    return before update:  0.12
+itr:  442    return after update:  0.42454988
+
+improve: -0.009048288688063622
+kl: 0.008564721792936325
+step_size: 0.8
+itr:  443    return before update:  0.134
+itr:  443    return after update:  0.47727984
+
+improve: -0.003635284025222063
+kl: 0.004909060895442963
+step_size: 0.2621440000000001
+itr:  444    return before update:  0.129
+itr:  444    return after update:  0.6
+
+improve: -0.009086977690458298
+kl: 0.006927757058292627
+step_size: 0.8
+itr:  445    return before update:  0.155
+itr:  445    return after update:  0.47551978
+
+improve: -0.009632573463022709
+kl: 0.009690504521131516
+step_size: 0.5120000000000001
+itr:  446    return before update:  0.133
+itr:  446    return after update:  0.47576013
+
+improve: -0.0015215887688100338
+kl: 0.0064525483176112175
+step_size: 0.40960000000000013
+itr:  447    return before update:  0.169
+itr:  447    return after update:  0.64899
+
+improve: -0.005164486356079578
+kl: 0.009037351235747337
+step_size: 0.6400000000000001
+itr:  448    return before update:  0.096
+itr:  448    return after update:  0.325
+
+improve: -0.00412957975640893
+kl: 0.004654149059206247
+step_size: 1.0
+itr:  449    return before update:  0.093
+itr:  449    return after update:  0.425
+
+improve: -0.002193016465753317
+kl: 0.005471088923513889
+step_size: 0.6400000000000001
+itr:  450    return before update:  0.127
+itr:  450    return after update:  0.5
+   inner RL loss: 0.004838312836363911
+   outer RL loss: -0.0021930134389549494
+
+improve: -0.0028422067407518625
+kl: 0.004799011163413525
+step_size: 1.0
+itr:  451    return before update:  0.143
+itr:  451    return after update:  0.62
+
+improve: -0.0030134953558444977
+kl: 0.006164523772895336
+step_size: 0.5120000000000001
+itr:  452    return before update:  0.138
+itr:  452    return after update:  0.55
+
+improve: -0.004887075163424015
+kl: 0.009809797629714012
+step_size: 0.32768000000000014
+itr:  453    return before update:  0.107
+itr:  453    return after update:  0.475
+
+improve: -0.021676981821656227
+kl: 0.009388509206473827
+step_size: 0.32768000000000014
+itr:  454    return before update:  0.13
+itr:  454    return after update:  0.476
+
+improve: -0.005891351494938135
+kl: 0.009081028401851654
+step_size: 0.40960000000000013
+itr:  455    return before update:  0.121
+itr:  455    return after update:  0.55
+
+improve: -0.001966324169188738
+kl: 0.003884697798639536
+step_size: 1.0
+itr:  456    return before update:  0.09
+itr:  456    return after update:  0.45
+
+improve: -0.005358182359486818
+kl: 0.008463689126074314
+step_size: 0.40960000000000013
+itr:  457    return before update:  0.155
+itr:  457    return after update:  0.575
+
+improve: -0.002729227999225259
+kl: 0.0072515541687607765
+step_size: 0.32768000000000014
+itr:  458    return before update:  0.091
+itr:  458    return after update:  0.35
+
+improve: -0.002074940362945199
+kl: 0.0041996268555521965
+step_size: 1.0
+itr:  459    return before update:  0.121
+itr:  459    return after update:  0.475
+
+improve: -0.005041369237005711
+kl: 0.008245141245424747
+step_size: 1.0
+itr:  460    return before update:  0.144
+itr:  460    return after update:  0.55
+   inner RL loss: -3.605086676543579e-05
+   outer RL loss: -0.0050413538701832294
+
+improve: -0.0030488353222608566
+kl: 0.0055322712287306786
+step_size: 0.2621440000000001
+itr:  461    return before update:  0.133
+itr:  461    return after update:  0.425
+
+improve: -0.0018685084069147706
+kl: 0.009943509474396706
+step_size: 0.6400000000000001
+itr:  462    return before update:  0.136
+itr:  462    return after update:  0.55
+
+improve: -0.0018415105296298862
+kl: 0.006009399890899658
+step_size: 1.0
+itr:  463    return before update:  0.113
+itr:  463    return after update:  0.45
+
+improve: -0.00016808859072625637
+kl: 0.006598632782697678
+step_size: 0.8
+itr:  464    return before update:  0.119
+itr:  464    return after update:  0.5
+
+improve: -0.005208886228501797
+kl: 0.005665635224431753
+step_size: 1.0
+itr:  465    return before update:  0.119
+itr:  465    return after update:  0.45
+
+improve: -0.006302005611360073
+kl: 0.007821285165846348
+step_size: 0.6400000000000001
+itr:  466    return before update:  0.131
+itr:  466    return after update:  0.5
+
+improve: -0.0019144455436617136
+kl: 0.009705652482807636
+step_size: 0.8
+itr:  467    return before update:  0.115
+itr:  467    return after update:  0.449
+
+improve: -0.0066400207579135895
+kl: 0.007550830487161875
+step_size: 0.6400000000000001
+itr:  468    return before update:  0.134
+itr:  468    return after update:  0.575
+
+improve: -0.005064016208052635
+kl: 0.002539597684517503
+step_size: 1.0
+itr:  469    return before update:  0.119
+itr:  469    return after update:  0.50798
+
+improve: -0.006204525008797646
+kl: 0.007863322272896767
+step_size: 1.0
+itr:  470    return before update:  0.124
+itr:  470    return after update:  0.475
+   inner RL loss: -0.0013494211772922427
+   outer RL loss: -0.006204516161233187
+
+improve: -0.006185330916196108
+kl: 0.008990802802145481
+step_size: 0.8
+itr:  471    return before update:  0.123
+itr:  471    return after update:  0.475
+
+improve: -0.007442130707204342
+kl: 0.008503650315105915
+step_size: 0.6400000000000001
+itr:  472    return before update:  0.129
+itr:  472    return after update:  0.475
+
+improve: -0.005161533132195473
+kl: 0.006214996334165335
+step_size: 0.40960000000000013
+itr:  473    return before update:  0.125
+itr:  473    return after update:  0.475
+
+improve: -0.003096289001405239
+kl: 0.004753543063998222
+step_size: 1.0
+itr:  474    return before update:  0.091
+itr:  474    return after update:  0.374
+
+improve: -0.0011734245344996452
+kl: 0.005356515292078257
+step_size: 1.0
+itr:  475    return before update:  0.142
+itr:  475    return after update:  0.45
+
+improve: -0.003894889960065484
+kl: 0.005922466982156038
+step_size: 0.5120000000000001
+itr:  476    return before update:  0.144
+itr:  476    return after update:  0.574
+
+improve: -0.001891587395220995
+kl: 0.00505161564797163
+step_size: 1.0
+itr:  477    return before update:  0.096
+itr:  477    return after update:  0.4
+
+improve: -0.0012006742181256413
+kl: 0.006904101464897394
+step_size: 1.0
+itr:  478    return before update:  0.127
+itr:  478    return after update:  0.55
+
+improve: -0.0015982718905434012
+kl: 0.0071106767281889915
+step_size: 1.0
+itr:  479    return before update:  0.115
+itr:  479    return after update:  0.55
+
+improve: -0.0032032805029302835
+kl: 0.008286801166832447
+step_size: 0.5120000000000001
+itr:  480    return before update:  0.102
+itr:  480    return after update:  0.45
+   inner RL loss: 0.0004771027946844697
+   outer RL loss: -0.003203281434252858
+
+improve: -0.0006164464866742492
+kl: 0.006961827166378498
+step_size: 0.8
+itr:  481    return before update:  0.129
+itr:  481    return after update:  0.45
+
+improve: -0.005684057250618935
+kl: 0.003477560356259346
+step_size: 1.0
+itr:  482    return before update:  0.098
+itr:  482    return after update:  0.427
+
+improve: -0.005708018317818642
+kl: 0.008536393754184246
+step_size: 0.40960000000000013
+itr:  483    return before update:  0.113
+itr:  483    return after update:  0.449
+
+improve: -0.001881559262983501
+kl: 0.005347155500203371
+step_size: 0.8
+itr:  484    return before update:  0.147
+itr:  484    return after update:  0.6
+
+improve: -0.0004407330125104636
+kl: 0.002166037680581212
+step_size: 1.0
+itr:  485    return before update:  0.125
+itr:  485    return after update:  0.5
+
+improve: -0.00492226192727685
+kl: 0.005956669803708792
+step_size: 0.40960000000000013
+itr:  486    return before update:  0.15
+itr:  486    return after update:  0.55
+
+improve: -3.3290631108684465e-05
+kl: 0.007450061850249767
+step_size: 0.8
+itr:  487    return before update:  0.114
+itr:  487    return after update:  0.475
+
+improve: -0.0001995542406802997
+kl: 0.0020182670559734106
+step_size: 1.0
+itr:  488    return before update:  0.094
+itr:  488    return after update:  0.4
+
+improve: -0.0009409995982423425
+kl: 0.0012701728846877813
+step_size: 1.0
+itr:  489    return before update:  0.137
+itr:  489    return after update:  0.624
+
+improve: -0.0033663827925920486
+kl: 0.0012195955496281385
+step_size: 1.0
+itr:  490    return before update:  0.123
+itr:  490    return after update:  0.56294996
+   inner RL loss: 0.007463746739085763
+   outer RL loss: -0.001682934700511396
+
+improve: -0.0032934830524027348
+kl: 0.006750585976988077
+step_size: 0.2097152000000001
+itr:  491    return before update:  0.142
+itr:  491    return after update:  0.5
+
+improve: -0.0014441596576943994
+kl: 0.004198791924864054
+step_size: 0.40960000000000013
+itr:  492    return before update:  0.165
+itr:  492    return after update:  0.6
+
+improve: -0.002401206875219941
+kl: 0.004085472319275141
+step_size: 1.0
+itr:  493    return before update:  0.137
+itr:  493    return after update:  0.548
+
+improve: -0.004103303421288729
+kl: 0.007947386242449284
+step_size: 0.5120000000000001
+itr:  494    return before update:  0.184
+itr:  494    return after update:  0.7
+
+improve: -0.0053231376223266125
+kl: 0.005948206875473261
+step_size: 0.6400000000000001
+itr:  495    return before update:  0.118
+itr:  495    return after update:  0.452
+
+improve: -0.0008661174215376377
+kl: 0.005409389268606901
+step_size: 1.0
+itr:  496    return before update:  0.092
+itr:  496    return after update:  0.381
+
+improve: -0.006568622309714556
+kl: 0.00880313292145729
+step_size: 0.40960000000000013
+itr:  497    return before update:  0.153
+itr:  497    return after update:  0.575
+
+improve: -0.002997854957357049
+kl: 0.004526263102889061
+step_size: 1.0
+itr:  498    return before update:  0.115
+itr:  498    return after update:  0.45
+
+improve: -0.002024141140282154
+kl: 0.007772549986839294
+step_size: 0.6400000000000001
+itr:  499    return before update:  0.095
+itr:  499    return after update:  0.4
+
+improve: -0.0022446312941610813
+kl: 0.007151269353926182
+step_size: 1.0
+itr:  500    return before update:  0.108
+itr:  500    return after update:  0.5
+   inner RL loss: 0.0008822423609672114
+   outer RL loss: -0.0022445975337177515
+
+improve: -0.0003334636858198792
+kl: 0.006633460521697998
+step_size: 0.5120000000000001
+itr:  501    return before update:  0.148
+itr:  501    return after update:  0.6
+
+improve: -0.002448670333251357
+kl: 0.004736157134175301
+step_size: 0.40960000000000013
+itr:  502    return before update:  0.063
+itr:  502    return after update:  0.275
+
+improve: -0.0015612152637913823
+kl: 0.004939678590744734
+step_size: 1.0
+itr:  503    return before update:  0.148
+itr:  503    return after update:  0.5
+
+improve: -0.004020132590085268
+kl: 0.007269310299307108
+step_size: 0.40960000000000013
+itr:  504    return before update:  0.111
+itr:  504    return after update:  0.475
+
+improve: -0.0031239783857017756
+kl: 0.00841956865042448
+step_size: 0.6400000000000001
+itr:  505    return before update:  0.096
+itr:  505    return after update:  0.45
+
+improve: -0.0024307614658027887
+kl: 0.007169002201408148
+step_size: 1.0
+itr:  506    return before update:  0.124
+itr:  506    return after update:  0.5
+
+improve: -0.003177234437316656
+kl: 0.007595646195113659
+step_size: 0.5120000000000001
+itr:  507    return before update:  0.101
+itr:  507    return after update:  0.425
+
+improve: -0.004004522226750851
+kl: 0.006579168140888214
+step_size: 0.8
+itr:  508    return before update:  0.189
+itr:  508    return after update:  0.65
+
+improve: -0.0035489608999341726
+kl: 0.008587492629885674
+step_size: 0.40960000000000013
+itr:  509    return before update:  0.155
+itr:  509    return after update:  0.575
+
+improve: -0.0053918128833174706
+kl: 0.005417437292635441
+step_size: 0.32768000000000014
+itr:  510    return before update:  0.114
+itr:  510    return after update:  0.475
+   inner RL loss: 0.004589665465755388
+   outer RL loss: -0.005391809158027172
+
+improve: -0.0023556884843856096
+kl: 0.0031251725740730762
+step_size: 1.0
+itr:  511    return before update:  0.132
+itr:  511    return after update:  0.45
+
+improve: -4.18182389694266e-05
+kl: 0.0008784654783084989
+step_size: 0.40960000000000013
+itr:  512    return before update:  0.081
+itr:  512    return after update:  0.4
+
+improve: -0.002410491229966283
+kl: 0.005619590170681477
+step_size: 0.2621440000000001
+itr:  513    return before update:  0.133
+itr:  513    return after update:  0.525
+
+improve: -0.006133613176643848
+kl: 0.004564353264868259
+step_size: 1.0
+itr:  514    return before update:  0.081
+itr:  514    return after update:  0.414
+
+improve: -0.001107165589928627
+kl: 0.0077110216952860355
+step_size: 0.5120000000000001
+itr:  515    return before update:  0.076
+itr:  515    return after update:  0.4
+
+improve: -0.002667623106390238
+kl: 0.0063936663791537285
+step_size: 0.5120000000000001
+itr:  516    return before update:  0.119
+itr:  516    return after update:  0.5
+
+improve: -0.005464174319058657
+kl: 0.008880002424120903
+step_size: 0.6400000000000001
+itr:  517    return before update:  0.106
+itr:  517    return after update:  0.375
+
+improve: -0.004591753706336021
+kl: 0.009914019145071507
+step_size: 0.32768000000000014
+itr:  518    return before update:  0.092
+itr:  518    return after update:  0.375
+
+improve: -0.002245250390842557
+kl: 0.00678618997335434
+step_size: 1.0
+itr:  519    return before update:  0.106
+itr:  519    return after update:  0.4
+
+improve: -0.0008170581422746181
+kl: 0.0021595428697764874
+step_size: 1.0
+itr:  520    return before update:  0.191
+itr:  520    return after update:  0.574
+   inner RL loss: -0.008544939395505935
+   outer RL loss: -0.0008170359069481492
+
+improve: -0.006652353797107935
+kl: 0.008134135976433754
+step_size: 0.5120000000000001
+itr:  521    return before update:  0.136
+itr:  521    return after update:  0.525
+
+improve: -0.0021412691567093134
+kl: 0.0076621584594249725
+step_size: 1.0
+itr:  522    return before update:  0.098
+itr:  522    return after update:  0.431
+
+improve: -0.0034978685434907675
+kl: 0.008539857342839241
+step_size: 0.5120000000000001
+itr:  523    return before update:  0.113
+itr:  523    return after update:  0.424
+
+improve: -0.003983581438660622
+kl: 0.007640967611223459
+step_size: 0.8
+itr:  524    return before update:  0.085
+itr:  524    return after update:  0.375
+
+improve: -0.0005263102939352393
+kl: 0.00609893212094903
+step_size: 1.0
+itr:  525    return before update:  0.133
+itr:  525    return after update:  0.499
+
+improve: -0.0049817380495369434
+kl: 0.006500364281237125
+step_size: 0.6400000000000001
+itr:  526    return before update:  0.104
+itr:  526    return after update:  0.38
+
+improve: -0.0018294777255505323
+kl: 0.0028790426440536976
+step_size: 1.0
+itr:  527    return before update:  0.123
+itr:  527    return after update:  0.45
+
+improve: -0.0010957488557323813
+kl: 0.009117885492742062
+step_size: 1.0
+itr:  528    return before update:  0.17
+itr:  528    return after update:  0.6
+
+improve: -0.0035156894009560347
+kl: 0.0022346354089677334
+step_size: 1.0
+itr:  529    return before update:  0.118
+itr:  529    return after update:  0.495
+
+improve: -0.0035311118699610233
+kl: 0.0012168739922344685
+step_size: 1.0
+itr:  530    return before update:  0.172
+itr:  530    return after update:  0.542
+   inner RL loss: -0.009590495564043521
+   outer RL loss: -0.003531112801283598
+
+improve: -0.002733023604378104
+kl: 0.009240757673978806
+step_size: 0.32768000000000014
+itr:  531    return before update:  0.145
+itr:  531    return after update:  0.574
+
+improve: -0.004033523146063089
+kl: 0.007569120265543461
+step_size: 0.8
+itr:  532    return before update:  0.143
+itr:  532    return after update:  0.654
+
+improve: -0.0013446296798065305
+kl: 0.008502517826855183
+step_size: 1.0
+itr:  533    return before update:  0.108
+itr:  533    return after update:  0.45
+
+improve: -0.003000882687047124
+kl: 0.007042805664241314
+step_size: 0.6400000000000001
+itr:  534    return before update:  0.117
+itr:  534    return after update:  0.4
+
+improve: -0.0035851155407726765
+kl: 0.008429314009845257
+step_size: 0.6400000000000001
+itr:  535    return before update:  0.093
+itr:  535    return after update:  0.549
+
+improve: -0.0003691621241159737
+kl: 0.0048070624470710754
+step_size: 1.0
+itr:  536    return before update:  0.119
+itr:  536    return after update:  0.5
+
+improve: -0.005423732567578554
+kl: 0.007955656386911869
+step_size: 0.8
+itr:  537    return before update:  0.144
+itr:  537    return after update:  0.549
+
+improve: -0.005012141074985266
+kl: 0.009073497727513313
+step_size: 0.32768000000000014
+itr:  538    return before update:  0.124
+itr:  538    return after update:  0.525
+
+improve: -0.002099636010825634
+kl: 0.001234853407368064
+step_size: 1.0
+itr:  539    return before update:  0.141
+itr:  539    return after update:  0.52
+
+improve: -0.0012029492063447833
+kl: 0.004422439727932215
+step_size: 1.0
+itr:  540    return before update:  0.102
+itr:  540    return after update:  0.4
+   inner RL loss: -0.0011540625477209688
+   outer RL loss: -0.0012029462959617376
+
+improve: -0.004994366317987442
+kl: 0.0043407706543803215
+step_size: 1.0
+itr:  541    return before update:  0.164
+itr:  541    return after update:  0.562
+
+improve: -0.0006198929622769356
+kl: 0.0019239524845033884
+step_size: 1.0
+itr:  542    return before update:  0.155
+itr:  542    return after update:  0.575
+
+improve: -0.002522030845284462
+kl: 0.004687499720603228
+step_size: 0.2097152000000001
+itr:  543    return before update:  0.145
+itr:  543    return after update:  0.575
+
+improve: -0.002299588406458497
+kl: 0.0025516462046653032
+step_size: 1.0
+itr:  544    return before update:  0.185
+itr:  544    return after update:  0.7
+
+improve: -0.0016785862389951944
+kl: 0.00408294377848506
+step_size: 1.0
+itr:  545    return before update:  0.096
+itr:  545    return after update:  0.4
+
+improve: -0.00369261740706861
+kl: 0.006807772908359766
+step_size: 0.2097152000000001
+itr:  546    return before update:  0.146
+itr:  546    return after update:  0.55
+
+improve: -0.0013799670850858092
+kl: 0.0032419543713331223
+step_size: 1.0
+itr:  547    return before update:  0.121
+itr:  547    return after update:  0.478
+
+improve: -0.0033718303311616182
+kl: 0.003880810458213091
+step_size: 1.0
+itr:  548    return before update:  0.11
+itr:  548    return after update:  0.46
+
+improve: -0.0027356892824172974
+kl: 0.002019011415541172
+step_size: 1.0
+itr:  549    return before update:  0.135
+itr:  549    return after update:  0.441
+
+improve: -0.003253987990319729
+kl: 0.006170813925564289
+step_size: 0.5120000000000001
+itr:  550    return before update:  0.144
+itr:  550    return after update:  0.55
+   inner RL loss: -0.000922646967228502
+   outer RL loss: -0.003253967734053731
+
+improve: -0.005875734146684408
+kl: 0.009784849360585213
+step_size: 0.6400000000000001
+itr:  551    return before update:  0.117
+itr:  551    return after update:  0.5
+
+improve: -0.0015677756164222956
+kl: 0.0036976293195039034
+step_size: 1.0
+itr:  552    return before update:  0.126
+itr:  552    return after update:  0.525
+
+improve: -0.003883389523252845
+kl: 0.004580647684633732
+step_size: 1.0
+itr:  553    return before update:  0.108
+itr:  553    return after update:  0.375
+
+improve: -0.004048760049045086
+kl: 0.006115515250712633
+step_size: 0.5120000000000001
+itr:  554    return before update:  0.119
+itr:  554    return after update:  0.525
+
+improve: -0.0010845777578651905
+kl: 0.004235968459397554
+step_size: 1.0
+itr:  555    return before update:  0.116
+itr:  555    return after update:  0.5
+
+improve: -0.002523919800296426
+kl: 0.0017895052442327142
+step_size: 1.0
+itr:  556    return before update:  0.146
+itr:  556    return after update:  0.518
+
+improve: -0.004070967435836792
+kl: 0.00832196045666933
+step_size: 0.40960000000000013
+itr:  557    return before update:  0.15
+itr:  557    return after update:  0.55
+
+improve: -0.004580698441714048
+kl: 0.006584846414625645
+step_size: 0.40960000000000013
+itr:  558    return before update:  0.087
+itr:  558    return after update:  0.35
+
+improve: -0.004173506982624531
+kl: 0.0098296869546175
+step_size: 0.5120000000000001
+itr:  559    return before update:  0.123
+itr:  559    return after update:  0.525
+
+improve: -0.0057140798307955265
+kl: 0.005618736147880554
+step_size: 1.0
+itr:  560    return before update:  0.134
+itr:  560    return after update:  0.549
+   inner RL loss: 0.00014385735667019617
+   outer RL loss: -0.005714070051908493
+
+improve: -0.002896347548812628
+kl: 0.005096194334328175
+step_size: 0.32768000000000014
+itr:  561    return before update:  0.115
+itr:  561    return after update:  0.525
+
+improve: -0.0036213418934494257
+kl: 0.004861590452492237
+step_size: 0.6400000000000001
+itr:  562    return before update:  0.136
+itr:  562    return after update:  0.475
+
+improve: -4.492191510507837e-05
+kl: 0.009189324453473091
+step_size: 0.8
+itr:  563    return before update:  0.131
+itr:  563    return after update:  0.58
+
+improve: -0.002274317666888237
+kl: 0.006806299090385437
+step_size: 0.5120000000000001
+itr:  564    return before update:  0.097
+itr:  564    return after update:  0.423
+
+improve: -0.004951146896928549
+kl: 0.009603933431208134
+step_size: 0.8
+itr:  565    return before update:  0.123
+itr:  565    return after update:  0.5
+
+improve: -0.003508617402985692
+kl: 0.0054427338764071465
+step_size: 0.5120000000000001
+itr:  566    return before update:  0.105
+itr:  566    return after update:  0.475
+
+improve: -0.00749298557639122
+kl: 0.007284907158464193
+step_size: 1.0
+itr:  567    return before update:  0.125
+itr:  567    return after update:  0.525
+
+improve: -0.004840516019612551
+kl: 0.007303817663341761
+step_size: 1.0
+itr:  568    return before update:  0.116
+itr:  568    return after update:  0.523
+
+improve: -0.002457876456901431
+kl: 0.009627553634345531
+step_size: 0.6400000000000001
+itr:  569    return before update:  0.127
+itr:  569    return after update:  0.55
+
+improve: -0.007033466827124357
+kl: 0.007171430625021458
+step_size: 0.5120000000000001
+itr:  570    return before update:  0.138
+itr:  570    return after update:  0.575
+   inner RL loss: 0.004313158441800624
+   outer RL loss: -0.007033457513898611
+
+improve: -0.001392445876263082
+kl: 0.004280018154531717
+step_size: 0.8
+itr:  571    return before update:  0.074
+itr:  571    return after update:  0.374
+
+improve: -0.0032153651118278503
+kl: 0.007542674895375967
+step_size: 0.40960000000000013
+itr:  572    return before update:  0.102
+itr:  572    return after update:  0.38
+
+improve: -0.003698109881952405
+kl: 0.004415722563862801
+step_size: 1.0
+itr:  573    return before update:  0.122
+itr:  573    return after update:  0.525
+
+improve: -0.005459316074848175
+kl: 0.009425325319170952
+step_size: 1.0
+itr:  574    return before update:  0.057
+itr:  574    return after update:  0.275
+
+improve: -0.0028849542140960693
+kl: 0.007098286412656307
+step_size: 1.0
+itr:  575    return before update:  0.112
+itr:  575    return after update:  0.425
+
+improve: -0.006014529149979353
+kl: 0.0036782987881451845
+step_size: 1.0
+itr:  576    return before update:  0.135
+itr:  576    return after update:  0.573
+
+improve: -0.0016796458512544632
+kl: 0.005173393525183201
+step_size: 1.0
+itr:  577    return before update:  0.078
+itr:  577    return after update:  0.375
+
+improve: -0.010790739208459854
+kl: 0.008500104770064354
+step_size: 0.8
+itr:  578    return before update:  0.153
+itr:  578    return after update:  0.59594995
+
+improve: -0.0010981162777170539
+kl: 0.00838847178965807
+step_size: 1.0
+itr:  579    return before update:  0.109
+itr:  579    return after update:  0.475
+
+improve: -0.0007381283212453127
+kl: 0.0009764766437001526
+step_size: 1.0
+itr:  580    return before update:  0.125
+itr:  580    return after update:  0.475
+   inner RL loss: 0.0026432120823301373
+   outer RL loss: -0.0007381167379207909
+
+improve: -0.0026024319231510162
+kl: 0.00327722798101604
+step_size: 1.0
+itr:  581    return before update:  0.106
+itr:  581    return after update:  0.37483007
+
+improve: -0.001958812354132533
+kl: 0.002949531190097332
+step_size: 1.0
+itr:  582    return before update:  0.159
+itr:  582    return after update:  0.607
+
+improve: -0.0034048925153911114
+kl: 0.009115325286984444
+step_size: 0.2097152000000001
+itr:  583    return before update:  0.141
+itr:  583    return after update:  0.55
+
+improve: -0.009908669628202915
+kl: 0.007361751049757004
+step_size: 0.40960000000000013
+itr:  584    return before update:  0.139
+itr:  584    return after update:  0.526
+
+improve: -0.002777764340862632
+kl: 0.008249105885624886
+step_size: 0.40960000000000013
+itr:  585    return before update:  0.076
+itr:  585    return after update:  0.275
+
+improve: -0.004760175012052059
+kl: 0.00998318288475275
+step_size: 0.32768000000000014
+itr:  586    return before update:  0.101
+itr:  586    return after update:  0.35
+
+improve: -0.002982604317367077
+kl: 0.006659502629190683
+step_size: 0.32768000000000014
+itr:  587    return before update:  0.14
+itr:  587    return after update:  0.55
+
+improve: -0.0010768496431410313
+kl: 0.008114923723042011
+step_size: 1.0
+itr:  588    return before update:  0.085
+itr:  588    return after update:  0.375
+
+improve: -0.0021876750979572535
+kl: 0.006058403290808201
+step_size: 1.0
+itr:  589    return before update:  0.118
+itr:  589    return after update:  0.45
+
+improve: -0.0003894422552548349
+kl: 0.0023040517698973417
+step_size: 1.0
+itr:  590    return before update:  0.133
+itr:  590    return after update:  0.475
+   inner RL loss: 0.0013926737185101957
+   outer RL loss: -0.00038943171966820955
+
+improve: -0.0005839257501065731
+kl: 0.0016147855203598738
+step_size: 1.0
+itr:  591    return before update:  0.087
+itr:  591    return after update:  0.4
+
+improve: -0.007138170301914215
+kl: 0.009010999463498592
+step_size: 0.2097152000000001
+itr:  592    return before update:  0.145
+itr:  592    return after update:  0.425
+
+improve: -0.00093840342015028
+kl: 0.007192143239080906
+step_size: 0.8
+itr:  593    return before update:  0.128
+itr:  593    return after update:  0.5
+
+improve: -0.0005340104689821601
+kl: 0.0034757391549646854
+step_size: 1.0
+itr:  594    return before update:  0.108
+itr:  594    return after update:  0.5
+
+improve: -0.0049895946867764
+kl: 0.008452003821730614
+step_size: 0.5120000000000001
+itr:  595    return before update:  0.119
+itr:  595    return after update:  0.3997501
+
+improve: -0.0020505241118371487
+kl: 0.00320456363260746
+step_size: 0.1677721600000001
+itr:  596    return before update:  0.108
+itr:  596    return after update:  0.55
+
+improve: -0.0047697145491838455
+kl: 0.008464010432362556
+step_size: 0.32768000000000014
+itr:  597    return before update:  0.152
+itr:  597    return after update:  0.675
+
+improve: -0.002178024034947157
+kl: 0.002209214959293604
+step_size: 1.0
+itr:  598    return before update:  0.111
+itr:  598    return after update:  0.47399
+
+improve: -0.0009076406131498516
+kl: 0.006280890665948391
+step_size: 1.0
+itr:  599    return before update:  0.09
+itr:  599    return after update:  0.397
+
+improve: -0.015112604945898056
+kl: 0.006956583354622126
+step_size: 1.0
+itr:  600    return before update:  0.164
+itr:  600    return after update:  0.5405799
+   inner RL loss: -0.007308865044615231
+   outer RL loss: -0.007480512373149395
+
+improve: -0.0030538446735590696
+kl: 0.008987177163362503
+step_size: 1.0
+itr:  601    return before update:  0.105
+itr:  601    return after update:  0.45
+
+improve: -0.0040834457613527775
+kl: 0.006235235370695591
+step_size: 0.32768000000000014
+itr:  602    return before update:  0.083
+itr:  602    return after update:  0.325
+
+improve: -0.0026549440808594227
+kl: 0.009470504708588123
+step_size: 0.8
+itr:  603    return before update:  0.078
+itr:  603    return after update:  0.3
+
+improve: -0.002192326355725527
+kl: 0.007973581552505493
+step_size: 0.40960000000000013
+itr:  604    return before update:  0.163
+itr:  604    return after update:  0.575
+
+improve: -0.0021615009754896164
+kl: 0.0014467084547504783
+step_size: 1.0
+itr:  605    return before update:  0.117
+itr:  605    return after update:  0.444
+
+improve: -0.0026147158350795507
+kl: 0.0016461529303342104
+step_size: 1.0
+itr:  606    return before update:  0.122
+itr:  606    return after update:  0.499
+
+improve: -8.264094503829256e-05
+kl: 0.001034189946949482
+step_size: 0.5120000000000001
+itr:  607    return before update:  0.141
+itr:  607    return after update:  0.5
+
+improve: -0.00027889266493730247
+kl: 0.001642871997319162
+step_size: 1.0
+itr:  608    return before update:  0.09
+itr:  608    return after update:  0.45
+
+improve: -0.0006269835284911096
+kl: 0.0011676045833155513
+step_size: 0.2621440000000001
+itr:  609    return before update:  0.099
+itr:  609    return after update:  0.399
+
+improve: -1.921138391480781e-05
+kl: 0.004274034406989813
+step_size: 0.8
+itr:  610    return before update:  0.117
+itr:  610    return after update:  0.45
+   inner RL loss: -0.002376152330543846
+   outer RL loss: -1.9190203602192923e-05
+
+improve: -0.03099478967487812
+kl: 0.008341561071574688
+step_size: 0.1677721600000001
+itr:  611    return before update:  0.145
+itr:  611    return after update:  0.501
+
+improve: -0.0009722509421408176
+kl: 0.003759350161999464
+step_size: 0.5120000000000001
+itr:  612    return before update:  0.135
+itr:  612    return after update:  0.578
+
+improve: -0.00026729441015049815
+kl: 0.0014451351016759872
+step_size: 0.8
+itr:  613    return before update:  0.127
+itr:  613    return after update:  0.499
+
+improve: -0.0008651739335618913
+kl: 0.00024277577176690102
+step_size: 1.0
+itr:  614    return before update:  0.107
+itr:  614    return after update:  0.498
+
+improve: -0.0016826592618599534
+kl: 0.008412607945501804
+step_size: 1.0
+itr:  615    return before update:  0.076
+itr:  615    return after update:  0.331
+
+improve: -6.142701749922708e-05
+kl: 0.0012400824343785644
+step_size: 1.0
+itr:  616    return before update:  0.158
+itr:  616    return after update:  0.6
+
+improve: -0.002664028201252222
+kl: 0.00976002961397171
+step_size: 0.8
+itr:  617    return before update:  0.142
+itr:  617    return after update:  0.553
+
+improve: -0.00042172736721113324
+kl: 0.0050974078476428986
+step_size: 0.2097152000000001
+itr:  618    return before update:  0.114
+itr:  618    return after update:  0.425
+
+improve: -0.0010498686460778117
+kl: 0.0006934686098247766
+step_size: 1.0
+itr:  619    return before update:  0.123
+itr:  619    return after update:  0.49797997
+
+improve: -0.0006408263579942286
+kl: 0.004139947704970837
+step_size: 0.40960000000000013
+itr:  620    return before update:  0.099
+itr:  620    return after update:  0.375
+   inner RL loss: -0.0008736665651667864
+   outer RL loss: -0.0006408126791939139
+
+improve: -0.012469634413719177
+kl: 0.009863226674497128
+step_size: 0.8
+itr:  621    return before update:  0.131
+itr:  621    return after update:  0.48535994
+
+improve: -0.0020202468149363995
+kl: 0.00808517076075077
+step_size: 0.8
+itr:  622    return before update:  0.106
+itr:  622    return after update:  0.475
+
+improve: -0.0036378921940922737
+kl: 0.0016002394258975983
+step_size: 1.0
+itr:  623    return before update:  0.088
+itr:  623    return after update:  0.28762996
+
+improve: -0.00044602062553167343
+kl: 0.006854379083961248
+step_size: 1.0
+itr:  624    return before update:  0.124
+itr:  624    return after update:  0.52399
+
+improve: -0.0017020257655531168
+kl: 0.00484707485884428
+step_size: 0.1677721600000001
+itr:  625    return before update:  0.112
+itr:  625    return after update:  0.425
+
+improve: -0.003570497501641512
+kl: 0.00704022403806448
+step_size: 1.0
+itr:  626    return before update:  0.146
+itr:  626    return after update:  0.628
+
+improve: -0.0021633312571793795
+kl: 0.006456454750150442
+step_size: 1.0
+itr:  627    return before update:  0.145
+itr:  627    return after update:  0.6
+
+improve: -0.005091486498713493
+kl: 0.0032367792446166277
+step_size: 1.0
+itr:  628    return before update:  0.114
+itr:  628    return after update:  0.45783
+
+improve: -0.001900960924103856
+kl: 0.005261239595711231
+step_size: 0.40960000000000013
+itr:  629    return before update:  0.116
+itr:  629    return after update:  0.525
+
+improve: -0.0002530911879148334
+kl: 0.0025227752048522234
+step_size: 1.0
+itr:  630    return before update:  0.167
+itr:  630    return after update:  0.55
+   inner RL loss: -0.0037278560557751916
+   outer RL loss: -0.0002530710189603269
+
+improve: -0.00143136375118047
+kl: 0.005555280018597841
+step_size: 0.8
+itr:  631    return before update:  0.1
+itr:  631    return after update:  0.425
+
+improve: -0.002330850576981902
+kl: 0.009717999957501888
+step_size: 1.0
+itr:  632    return before update:  0.091
+itr:  632    return after update:  0.358
+
+improve: -0.0011058797826990485
+kl: 0.0061269039288163185
+step_size: 0.5120000000000001
+itr:  633    return before update:  0.157
+itr:  633    return after update:  0.575
+
+improve: -0.006269275676459074
+kl: 0.0078077418729662895
+step_size: 0.8
+itr:  634    return before update:  0.174
+itr:  634    return after update:  0.57474977
+
+improve: -0.0023748385719954967
+kl: 0.007001630961894989
+step_size: 1.0
+itr:  635    return before update:  0.128
+itr:  635    return after update:  0.5
+
+improve: -0.01280997321009636
+kl: 0.009014646522700787
+step_size: 0.6400000000000001
+itr:  636    return before update:  0.14
+itr:  636    return after update:  0.5515898
+
+improve: -2.0575944290612824e-06
+kl: 0.0025623110122978687
+step_size: 0.6400000000000001
+itr:  637    return before update:  0.105
+itr:  637    return after update:  0.4
+
+improve: -0.0005701000336557627
+kl: 0.006447969935834408
+step_size: 0.8
+itr:  638    return before update:  0.118
+itr:  638    return after update:  0.475
+
+improve: -9.181250061374158e-05
+kl: 0.009043511934578419
+step_size: 0.40960000000000013
+itr:  639    return before update:  0.137
+itr:  639    return after update:  0.55
+
+improve: -0.0020134984515607357
+kl: 0.0005256765289232135
+step_size: 1.0
+itr:  640    return before update:  0.147
+itr:  640    return after update:  0.62197006
+   inner RL loss: 0.0031349842181953138
+   outer RL loss: 0.0015357445226982236
+
+improve: -0.00046970360563136637
+kl: 0.001063018455170095
+step_size: 0.8
+itr:  641    return before update:  0.168
+itr:  641    return after update:  0.57474995
+
+improve: -0.006172701716423035
+kl: 0.008524352684617043
+step_size: 0.13421772800000006
+itr:  642    return before update:  0.128
+itr:  642    return after update:  0.525
+
+improve: -0.0018117501167580485
+kl: 0.009374337270855904
+step_size: 1.0
+itr:  643    return before update:  0.096
+itr:  643    return after update:  0.479
+
+improve: -0.0021836969535797834
+kl: 0.007678360678255558
+step_size: 1.0
+itr:  644    return before update:  0.119
+itr:  644    return after update:  0.45174974
+
+improve: -0.0013663938734680414
+kl: 0.008128739893436432
+step_size: 0.32768000000000014
+itr:  645    return before update:  0.142
+itr:  645    return after update:  0.575
+
+improve: -0.00034766877070069313
+kl: 0.0010737736010923982
+step_size: 1.0
+itr:  646    return before update:  0.13
+itr:  646    return after update:  0.474
+
+improve: -0.002301468513906002
+kl: 0.004060034640133381
+step_size: 0.6400000000000001
+itr:  647    return before update:  0.131
+itr:  647    return after update:  0.50298
+
+improve: -8.559933485230431e-05
+kl: 0.005024696234613657
+step_size: 0.8
+itr:  648    return before update:  0.123
+itr:  648    return after update:  0.45
+
+improve: -0.00407006498426199
+kl: 0.006857810076326132
+step_size: 0.32768000000000014
+itr:  649    return before update:  0.138
+itr:  649    return after update:  0.49975
+
+improve: -0.00351928174495697
+kl: 0.006738020572811365
+step_size: 0.2097152000000001
+itr:  650    return before update:  0.105
+itr:  650    return after update:  0.42475012
+   inner RL loss: 0.00011678178561851383
+   outer RL loss: -0.0035192735958844423
+
+improve: -0.00030888980836607516
+kl: 0.008142517879605293
+step_size: 0.8
+itr:  651    return before update:  0.142
+itr:  651    return after update:  0.6
+
+improve: -6.127007509348914e-05
+kl: 0.0006786439334973693
+step_size: 1.0
+itr:  652    return before update:  0.152
+itr:  652    return after update:  0.675
+
+improve: -0.0010561987292021513
+kl: 0.00026585080195218325
+step_size: 1.0
+itr:  653    return before update:  0.116
+itr:  653    return after update:  0.42297998
+
+improve: -0.0014092883793637156
+kl: 0.0003854478127323091
+step_size: 1.0
+itr:  654    return before update:  0.111
+itr:  654    return after update:  0.39696997
+
+improve: -0.002031190088018775
+kl: 0.007724914699792862
+step_size: 0.2621440000000001
+itr:  655    return before update:  0.135
+itr:  655    return after update:  0.575
+
+improve: -0.002105056308209896
+kl: 0.009214764460921288
+step_size: 0.13421772800000006
+itr:  656    return before update:  0.133
+itr:  656    return after update:  0.5
+
+improve: -0.005247168708592653
+kl: 0.007306546904146671
+step_size: 1.0
+itr:  657    return before update:  0.099
+itr:  657    return after update:  0.44671974
+
+improve: -0.0016624355921521783
+kl: 0.007099120412021875
+step_size: 0.8
+itr:  658    return before update:  0.11
+itr:  658    return after update:  0.479
+
+improve: -2.0370223865029402e-05
+kl: 0.0005254177958704531
+step_size: 0.2097152000000001
+itr:  659    return before update:  0.15
+itr:  659    return after update:  0.525
+
+improve: -0.004279512912034988
+kl: 0.005840884055942297
+step_size: 0.32768000000000014
+itr:  660    return before update:  0.135
+itr:  660    return after update:  0.42474976
+   inner RL loss: -0.0004373593779746443
+   outer RL loss: -0.004279532469809055
+
+improve: -0.0029874821193516254
+kl: 0.0069261169992387295
+step_size: 0.40960000000000013
+itr:  661    return before update:  0.162
+itr:  661    return after update:  0.553
+
+improve: -0.0035415268503129482
+kl: 0.006662142928689718
+step_size: 0.32768000000000014
+itr:  662    return before update:  0.167
+itr:  662    return after update:  0.57474977
+
+improve: -0.004335308913141489
+kl: 0.00439003761857748
+step_size: 1.0
+itr:  663    return before update:  0.139
+itr:  663    return after update:  0.59394
+
+improve: -7.571712194476277e-05
+kl: 0.001354391104541719
+step_size: 0.8
+itr:  664    return before update:  0.114
+itr:  664    return after update:  0.425
+
+improve: -0.0028336490504443645
+kl: 0.008977042511105537
+step_size: 0.2097152000000001
+itr:  665    return before update:  0.105
+itr:  665    return after update:  0.45
+
+improve: -0.005181534215807915
+kl: 0.007152488920837641
+step_size: 1.0
+itr:  666    return before update:  0.1
+itr:  666    return after update:  0.32489997
+
+improve: -0.008933022618293762
+kl: 0.002982651349157095
+step_size: 1.0
+itr:  667    return before update:  0.147
+itr:  667    return after update:  0.51370984
+
+improve: -0.002964690560474992
+kl: 0.001861273660324514
+step_size: 1.0
+itr:  668    return before update:  0.121
+itr:  668    return after update:  0.39963004
+
+improve: -0.0011452245526015759
+kl: 0.008551093749701977
+step_size: 0.8
+itr:  669    return before update:  0.084
+itr:  669    return after update:  0.375
+
+improve: -0.0009993195999413729
+kl: 0.0031154744792729616
+step_size: 1.0
+itr:  670    return before update:  0.128
+itr:  670    return after update:  0.44974995
+   inner RL loss: -0.0011273154676928244
+   outer RL loss: -0.0009993506828323007
+
+improve: -0.004961337894201279
+kl: 0.007951561361551285
+step_size: 1.0
+itr:  671    return before update:  0.088
+itr:  671    return after update:  0.37474993
+
+improve: -0.009877712465822697
+kl: 0.0036464030854403973
+step_size: 1.0
+itr:  672    return before update:  0.138
+itr:  672    return after update:  0.47070983
+
+improve: -0.001273827045224607
+kl: 0.003919662442058325
+step_size: 0.1677721600000001
+itr:  673    return before update:  0.132
+itr:  673    return after update:  0.525
+
+improve: -0.0024682253133505583
+kl: 0.008759481832385063
+step_size: 0.13421772800000006
+itr:  674    return before update:  0.099
+itr:  674    return after update:  0.3747501
+
+improve: -0.010975616984069347
+kl: 0.004653879441320896
+step_size: 1.0
+itr:  675    return before update:  0.128
+itr:  675    return after update:  0.4373798
+
+improve: -0.006668267771601677
+kl: 0.003587809856981039
+step_size: 1.0
+itr:  676    return before update:  0.084
+itr:  676    return after update:  0.4088401
+
+improve: -0.009593009948730469
+kl: 0.0067150951363146305
+step_size: 1.0
+itr:  677    return before update:  0.151
+itr:  677    return after update:  0.48863977
+
+improve: -0.004160869400948286
+kl: 0.0027419619727879763
+step_size: 1.0
+itr:  678    return before update:  0.115
+itr:  678    return after update:  0.439
+
+improve: -0.0023324161302298307
+kl: 0.0012365187285467982
+step_size: 1.0
+itr:  679    return before update:  0.145
+itr:  679    return after update:  0.52272975
+
+improve: -0.0019593052566051483
+kl: 0.008560901507735252
+step_size: 0.5120000000000001
+itr:  680    return before update:  0.102
+itr:  680    return after update:  0.425
+   inner RL loss: -0.00023736792500130832
+   outer RL loss: -0.0019592889584600925
+
+improve: -0.0020975512452423573
+kl: 0.0062416628934443
+step_size: 0.13421772800000006
+itr:  681    return before update:  0.094
+itr:  681    return after update:  0.425
+
+improve: -0.006679524667561054
+kl: 0.004362506326287985
+step_size: 1.0
+itr:  682    return before update:  0.097
+itr:  682    return after update:  0.35176983
+
+improve: -0.009298311546444893
+kl: 0.004179338458925486
+step_size: 1.0
+itr:  683    return before update:  0.161
+itr:  683    return after update:  0.5623797
+
+improve: -0.000661270460113883
+kl: 0.0015127186197787523
+step_size: 1.0
+itr:  684    return before update:  0.122
+itr:  684    return after update:  0.52399
+
+improve: -6.336392107186839e-05
+kl: 0.007331070955842733
+step_size: 0.40960000000000013
+itr:  685    return before update:  0.115
+itr:  685    return after update:  0.5
+
+improve: -0.0076123569160699844
+kl: 0.004170446190983057
+step_size: 1.0
+itr:  686    return before update:  0.141
+itr:  686    return after update:  0.49318963
+
+improve: -0.005501550622284412
+kl: 0.000904504326172173
+step_size: 1.0
+itr:  687    return before update:  0.151
+itr:  687    return after update:  0.5255101
+
+improve: -0.01247614249587059
+kl: 0.007766404654830694
+step_size: 1.0
+itr:  688    return before update:  0.132
+itr:  688    return after update:  0.43535998
+
+improve: -0.004716306459158659
+kl: 0.002732144435867667
+step_size: 1.0
+itr:  689    return before update:  0.092
+itr:  689    return after update:  0.30479997
+
+improve: -0.005350027233362198
+kl: 0.004019767511636019
+step_size: 1.0
+itr:  690    return before update:  0.11
+itr:  690    return after update:  0.37878978
+   inner RL loss: -0.0018139376275939866
+   outer RL loss: 0.002406592248007655
+
+improve: -0.00043620943324640393
+kl: 0.0019122337689623237
+step_size: 1.0
+itr:  691    return before update:  0.129
+itr:  691    return after update:  0.55
+
+improve: -0.0012218166375532746
+kl: 0.0019075354794040322
+step_size: 0.08589934592000005
+itr:  692    return before update:  0.1
+itr:  692    return after update:  0.45
+
+improve: -0.0011385594261810184
+kl: 0.007919779047369957
+step_size: 0.8
+itr:  693    return before update:  0.162
+itr:  693    return after update:  0.575
+
+improve: -0.0001201982086058706
+kl: 0.0016619829693809152
+step_size: 1.0
+itr:  694    return before update:  0.135
+itr:  694    return after update:  0.5
+
+improve: -0.000769232923630625
+kl: 0.0028883658815175295
+step_size: 0.1677721600000001
+itr:  695    return before update:  0.157
+itr:  695    return after update:  0.625
+
+improve: -0.004259909503161907
+kl: 0.006610716227442026
+step_size: 0.2621440000000001
+itr:  696    return before update:  0.14
+itr:  696    return after update:  0.575
+
+improve: -0.0013840326573699713
+kl: 0.0008287422242574394
+step_size: 1.0
+itr:  697    return before update:  0.102
+itr:  697    return after update:  0.47298
+
+improve: -2.3648834030609578e-05
+kl: 0.0020615230314433575
+step_size: 0.1677721600000001
+itr:  698    return before update:  0.152
+itr:  698    return after update:  0.6
+
+improve: -0.00023445673286914825
+kl: 0.006875289138406515
+step_size: 0.8
+itr:  699    return before update:  0.117
+itr:  699    return after update:  0.45
+
+improve: -6.190803105710074e-05
+kl: 0.0002809126162901521
+step_size: 1.0
+itr:  700    return before update:  0.098
+itr:  700    return after update:  0.4
+   inner RL loss: 0.00041599904070608316
+   outer RL loss: -6.190301792230457e-05
+
+improve: -0.004646812565624714
+kl: 0.006555822677910328
+step_size: 0.2097152000000001
+itr:  701    return before update:  0.185
+itr:  701    return after update:  0.625
+
+improve: -0.0036011142656207085
+kl: 0.0077798389829695225
+step_size: 0.1677721600000001
+itr:  702    return before update:  0.174
+itr:  702    return after update:  0.6
+
+improve: -0.0013424589997157454
+kl: 0.006596164312213659
+step_size: 1.0
+itr:  703    return before update:  0.124
+itr:  703    return after update:  0.425
+
+improve: -0.0014431875897571445
+kl: 0.006401864346116781
+step_size: 1.0
+itr:  704    return before update:  0.119
+itr:  704    return after update:  0.475
+
+improve: -3.251763871503499e-07
+kl: 1.5653706213925034e-05
+step_size: 0.054975581388800036
+itr:  705    return before update:  0.102
+itr:  705    return after update:  0.4
+
+improve: -0.000673893082421273
+kl: 0.009064463898539543
+step_size: 0.2621440000000001
+itr:  706    return before update:  0.131
+itr:  706    return after update:  0.45
+
+improve: -0.0004213571082800627
+kl: 0.006109963171184063
+step_size: 0.6400000000000001
+itr:  707    return before update:  0.109
+itr:  707    return after update:  0.475
+
+improve: -0.0011765722883865237
+kl: 0.007326419465243816
+step_size: 0.8
+itr:  708    return before update:  0.089
+itr:  708    return after update:  0.327
+
+improve: -6.27182744210586e-05
+kl: 0.0012523190816864371
+step_size: 0.6400000000000001
+itr:  709    return before update:  0.164
+itr:  709    return after update:  0.65
+
+improve: -6.623895023949444e-05
+kl: 0.001257239724509418
+step_size: 0.2621440000000001
+itr:  710    return before update:  0.125
+itr:  710    return after update:  0.5
+   inner RL loss: 0.001130036539689172
+   outer RL loss: -6.623177614528686e-05
+
+improve: -0.00041631446219980717
+kl: 0.006319965235888958
+step_size: 1.0
+itr:  711    return before update:  0.126
+itr:  711    return after update:  0.575
+
+improve: -0.0015973617555573583
+kl: 0.007967565208673477
+step_size: 0.1677721600000001
+itr:  712    return before update:  0.105
+itr:  712    return after update:  0.4
+
+improve: -0.00020205581677146256
+kl: 0.0032920551020652056
+step_size: 0.2621440000000001
+itr:  713    return before update:  0.161
+itr:  713    return after update:  0.6
+
+improve: -0.00012333305494394153
+kl: 0.006176769267767668
+step_size: 1.0
+itr:  714    return before update:  0.137
+itr:  714    return after update:  0.525
+
+improve: -0.004464113153517246
+kl: 0.0029995637014508247
+step_size: 1.0
+itr:  715    return before update:  0.125
+itr:  715    return after update:  0.48383984
+
+improve: -0.0009427304030396044
+kl: 0.005595126189291477
+step_size: 0.5120000000000001
+itr:  716    return before update:  0.118
+itr:  716    return after update:  0.425
+
+improve: -0.002172940643504262
+kl: 0.00690270122140646
+step_size: 0.40960000000000013
+itr:  717    return before update:  0.173
+itr:  717    return after update:  0.65
+
+improve: -7.767295755911618e-05
+kl: 0.0012580144684761763
+step_size: 0.2621440000000001
+itr:  718    return before update:  0.111
+itr:  718    return after update:  0.5
+
+improve: -0.004391973838210106
+kl: 0.0015890070935711265
+step_size: 1.0
+itr:  719    return before update:  0.107
+itr:  719    return after update:  0.46490002
+
+improve: -0.0018252315931022167
+kl: 0.004031879361718893
+step_size: 1.0
+itr:  720    return before update:  0.138
+itr:  720    return after update:  0.47475013
+   inner RL loss: -0.00035523176193237306
+   outer RL loss: -0.003205710556358099
+
+improve: -0.012825865298509598
+kl: 0.006267318036407232
+step_size: 1.0
+itr:  721    return before update:  0.139
+itr:  721    return after update:  0.48762998
+
+improve: -0.0013347717467695475
+kl: 0.005035912152379751
+step_size: 1.0
+itr:  722    return before update:  0.092
+itr:  722    return after update:  0.39898998
+
+improve: -1.535227602289524e-05
+kl: 0.0009792250348255038
+step_size: 0.1677721600000001
+itr:  723    return before update:  0.144
+itr:  723    return after update:  0.575
+
+improve: -0.0015824837610125542
+kl: 0.008881799876689911
+step_size: 1.0
+itr:  724    return before update:  0.107
+itr:  724    return after update:  0.453
+
+improve: -3.33272764692083e-05
+kl: 0.0007539401995018125
+step_size: 0.32768000000000014
+itr:  725    return before update:  0.14
+itr:  725    return after update:  0.475
+
+improve: -0.0068394155241549015
+kl: 0.004671529866755009
+step_size: 1.0
+itr:  726    return before update:  0.093
+itr:  726    return after update:  0.4077998
+
+improve: -0.0008167045889422297
+kl: 0.00855202879756689
+step_size: 1.0
+itr:  727    return before update:  0.127
+itr:  727    return after update:  0.525
+
+improve: -0.009210252203047276
+kl: 0.007910827174782753
+step_size: 0.32768000000000014
+itr:  728    return before update:  0.126
+itr:  728    return after update:  0.5507598
+
+improve: -0.0029685080517083406
+kl: 0.006849662400782108
+step_size: 0.1677721600000001
+itr:  729    return before update:  0.142
+itr:  729    return after update:  0.6
+
+improve: -0.0028420754242688417
+kl: 0.0005572364898398519
+step_size: 1.0
+itr:  730    return before update:  0.146
+itr:  730    return after update:  0.46995997
+   inner RL loss: -0.0019222855335101485
+   outer RL loss: 0.0003048014477826655
+
+improve: -0.0021500932052731514
+kl: 0.008189739659428596
+step_size: 0.32768000000000014
+itr:  731    return before update:  0.147
+itr:  731    return after update:  0.55
+
+improve: -0.025893058627843857
+kl: 0.004412645939737558
+step_size: 0.32768000000000014
+itr:  732    return before update:  0.116
+itr:  732    return after update:  0.44974977
+
+improve: -0.0017753270221874118
+kl: 0.0051497239619493484
+step_size: 0.08589934592000005
+itr:  733    return before update:  0.1
+itr:  733    return after update:  0.45
+
+improve: -0.000596536323428154
+kl: 0.00012217687617521733
+step_size: 0.32768000000000014
+itr:  734    return before update:  0.12
+itr:  734    return after update:  0.48586
+
+improve: -0.00535768223926425
+kl: 0.008158082142472267
+step_size: 0.32768000000000014
+itr:  735    return before update:  0.12
+itr:  735    return after update:  0.4997501
+
+improve: -0.0035628825426101685
+kl: 0.007973926141858101
+step_size: 0.2097152000000001
+itr:  736    return before update:  0.137
+itr:  736    return after update:  0.55
+
+improve: -0.0006839954294264317
+kl: 0.005919925402849913
+step_size: 0.1677721600000001
+itr:  737    return before update:  0.114
+itr:  737    return after update:  0.45
+
+improve: -0.0019139745272696018
+kl: 0.0003623425436671823
+step_size: 0.2097152000000001
+itr:  738    return before update:  0.139
+itr:  738    return after update:  0.46035978
+
+improve: -0.013772889040410519
+kl: 0.009099557064473629
+step_size: 1.0
+itr:  739    return before update:  0.177
+itr:  739    return after update:  0.54495996
+
+improve: -0.005880122538655996
+kl: 0.0022912814747542143
+step_size: 1.0
+itr:  740    return before update:  0.163
+itr:  740    return after update:  0.5494598
+   inner RL loss: -0.0008766042301431298
+   outer RL loss: -0.004956471733748913
+
+improve: -0.009832214564085007
+kl: 0.0073554604314267635
+step_size: 0.32768000000000014
+itr:  741    return before update:  0.103
+itr:  741    return after update:  0.42575994
+
+improve: -0.004814059939235449
+kl: 0.0034333174116909504
+step_size: 1.0
+itr:  742    return before update:  0.108
+itr:  742    return after update:  0.53299
+
+improve: -0.0003552186826709658
+kl: 0.0005476121441461146
+step_size: 1.0
+itr:  743    return before update:  0.124
+itr:  743    return after update:  0.475
+
+improve: -5.752110155299306e-05
+kl: 0.0005679051391780376
+step_size: 1.0
+itr:  744    return before update:  0.115
+itr:  744    return after update:  0.475
+
+improve: -0.001107920310460031
+kl: 0.00023664606851525605
+step_size: 1.0
+itr:  745    return before update:  0.148
+itr:  745    return after update:  0.572
+
+improve: -1.7298923921771348e-05
+kl: 7.545234984718263e-05
+step_size: 1.0
+itr:  746    return before update:  0.123
+itr:  746    return after update:  0.425
+
+improve: -1.5298523692308663e-07
+kl: 1.685705342424626e-06
+step_size: 0.06871947673600004
+itr:  747    return before update:  0.131
+itr:  747    return after update:  0.525
+
+improve: -7.285011704993849e-09
+kl: 0.00854752492159605
+step_size: 1.0
+itr:  748    return before update:  0.12
+itr:  748    return after update:  0.45
+
+improve: -9.268343092116993e-06
+kl: 0.008272695355117321
+step_size: 0.10737418240000006
+itr:  749    return before update:  0.153
+itr:  749    return after update:  0.575
+
+improve: -0.0021328588481992483
+kl: 0.0015761146787554026
+step_size: 0.2621440000000001
+itr:  750    return before update:  0.098
+itr:  750    return after update:  0.405
+   inner RL loss: 0.020558315701782702
+   outer RL loss: -0.0021328500006347895
+
+improve: -0.0034729831386357546
+kl: 0.009396753273904324
+step_size: 0.8
+itr:  751    return before update:  0.098
+itr:  751    return after update:  0.306
+
+improve: -0.0010048814583569765
+kl: 0.007211844436824322
+step_size: 0.6400000000000001
+itr:  752    return before update:  0.095
+itr:  752    return after update:  0.425
+
+improve: -0.000897150079254061
+kl: 0.006113043520599604
+step_size: 0.32768000000000014
+itr:  753    return before update:  0.101
+itr:  753    return after update:  0.425
+
+improve: -0.0211024172604084
+kl: 0.008034211583435535
+step_size: 0.2621440000000001
+itr:  754    return before update:  0.161
+itr:  754    return after update:  0.577
+
+improve: -0.000993823865428567
+kl: 0.0031057302840054035
+step_size: 0.2621440000000001
+itr:  755    return before update:  0.2
+itr:  755    return after update:  0.674
+
+improve: -0.0020194919779896736
+kl: 0.007179607637226582
+step_size: 0.6400000000000001
+itr:  756    return before update:  0.106
+itr:  756    return after update:  0.405
+
+improve: -0.0031895784195512533
+kl: 0.0014685388887301087
+step_size: 0.6400000000000001
+itr:  757    return before update:  0.103
+itr:  757    return after update:  0.437
+
+improve: -0.002164221601560712
+kl: 0.005612812936306
+step_size: 0.6400000000000001
+itr:  758    return before update:  0.097
+itr:  758    return after update:  0.474
+
+no update?
+improve: -0.00039078600821085274
+kl: inf
+step_size: 0.03518437208883203
+itr:  759    return before update:  0.184
+itr:  759    return after update:  0.561
+
+improve: -0.0030652694404125214
+kl: 0.0062800319865345955
+step_size: 1.0
+itr:  760    return before update:  0.112
+itr:  760    return after update:  0.40475
+   inner RL loss: 0.004745685623493046
+   outer RL loss: -0.006583319511264563
+
+no update?
+improve: -0.011407816782593727
+kl: inf
+step_size: 0.03518437208883203
+itr:  761    return before update:  0.088
+itr:  761    return after update:  0.47475013
+
+no update?
+improve: -0.0001064381212927401
+kl: inf
+step_size: 0.03518437208883203
+itr:  762    return before update:  0.118
+itr:  762    return after update:  0.479
+
+improve: -1.2815000616228645e-07
+kl: 0.007134515792131424
+step_size: 0.8
+itr:  763    return before update:  0.072
+itr:  763    return after update:  0.45
+
+improve: -0.00730657484382391
+kl: 0.0034295402001589537
+step_size: 0.5120000000000001
+itr:  764    return before update:  0.158
+itr:  764    return after update:  0.6057898
+
+improve: -0.002345907036215067
+kl: 0.0009449932840652764
+step_size: 0.40960000000000013
+itr:  765    return before update:  0.101
+itr:  765    return after update:  0.39974993
+
+improve: -0.0012136282166466117
+kl: 0.0014527104794979095
+step_size: 0.2097152000000001
+itr:  766    return before update:  0.14
+itr:  766    return after update:  0.49874
+
+improve: -0.0011670778039842844
+kl: 0.0008305038209073246
+step_size: 0.1677721600000001
+itr:  767    return before update:  0.129
+itr:  767    return after update:  0.503
+
+no update?
+improve: -6.117753946455196e-05
+kl: inf
+step_size: 0.03518437208883203
+itr:  768    return before update:  0.159
+itr:  768    return after update:  0.55
+
+improve: -0.00393588887527585
+kl: 0.005588405765593052
+step_size: 0.40960000000000013
+itr:  769    return before update:  0.113
+itr:  769    return after update:  0.39974976
+
+improve: -0.011576325632631779
+kl: 0.0040900311432778835
+step_size: 1.0
+itr:  770    return before update:  0.122
+itr:  770    return after update:  0.43788007
+   inner RL loss: 0.0030044430570342227
+   outer RL loss: 0.005406350828707218
+
+no update?
+improve: 3.583026909836917e-06
+kl: inf
+step_size: 0.03518437208883203
+itr:  771    return before update:  0.13
+itr:  771    return after update:  0.475
+
+improve: -0.0015118904411792755
+kl: 0.00013731585931964219
+step_size: 0.1677721600000001
+itr:  772    return before update:  0.099
+itr:  772    return after update:  0.39797997
+
+improve: -0.00132080283947289
+kl: 0.006974904797971249
+step_size: 0.8
+itr:  773    return before update:  0.12
+itr:  773    return after update:  0.55
+
+no update?
+improve: -1.7017040590872057e-05
+kl: inf
+step_size: 0.03518437208883203
+itr:  774    return before update:  0.123
+itr:  774    return after update:  0.45
+
+improve: -3.7787324345117668e-06
+kl: 0.00211602495983243
+step_size: 0.8
+itr:  775    return before update:  0.096
+itr:  775    return after update:  0.425
+
+improve: -0.002858094871044159
+kl: 0.005267559550702572
+step_size: 0.32768000000000014
+itr:  776    return before update:  0.114
+itr:  776    return after update:  0.5
+
+improve: -0.0025317510589957237
+kl: 0.008912857621908188
+step_size: 1.0
+itr:  777    return before update:  0.14
+itr:  777    return after update:  0.39949986
+
+improve: -0.006426345556974411
+kl: 0.0033354435581713915
+step_size: 0.6400000000000001
+itr:  778    return before update:  0.093
+itr:  778    return after update:  0.30398
+
+improve: -0.0010246364399790764
+kl: 0.0007399150053970516
+step_size: 0.40960000000000013
+itr:  779    return before update:  0.112
+itr:  779    return after update:  0.29924962
+
+improve: -0.002535761334002018
+kl: 0.001973689766600728
+step_size: 1.0
+itr:  780    return before update:  0.138
+itr:  780    return after update:  0.4182497
+   inner RL loss: -0.0036031098919920624
+   outer RL loss: -0.0073944153264164925
+
+improve: -0.004279132932424545
+kl: 0.005261265207082033
+step_size: 0.2097152000000001
+itr:  781    return before update:  0.126
+itr:  781    return after update:  0.39924964
+
+improve: -0.004604783374816179
+kl: 0.0020693382248282433
+step_size: 0.6400000000000001
+itr:  782    return before update:  0.147
+itr:  782    return after update:  0.5729199
+
+improve: -0.0017769350670278072
+kl: 0.007996750064194202
+step_size: 0.5120000000000001
+itr:  783    return before update:  0.099
+itr:  783    return after update:  0.42475012
+
+improve: -0.0028530124109238386
+kl: 0.008493518456816673
+step_size: 0.5120000000000001
+itr:  784    return before update:  0.133
+itr:  784    return after update:  0.49444953
+
+improve: -0.0007048436091281474
+kl: 2.8070586267858744e-05
+step_size: 0.054975581388800036
+itr:  785    return before update:  0.131
+itr:  785    return after update:  0.37651953
+
+improve: -0.004021782428026199
+kl: 0.0025478708557784557
+step_size: 1.0
+itr:  786    return before update:  0.137
+itr:  786    return after update:  0.50783
+
+improve: -0.011688177473843098
+kl: 0.007022975478321314
+step_size: 1.0
+itr:  787    return before update:  0.144
+itr:  787    return after update:  0.604
+
+improve: -0.020711535587906837
+kl: 0.004913870710879564
+step_size: 0.06871947673600004
+itr:  788    return before update:  0.145
+itr:  788    return after update:  0.575
+
+improve: -1.0935894351860043e-05
+kl: 0.0002264380018459633
+step_size: 0.2097152000000001
+itr:  789    return before update:  0.103
+itr:  789    return after update:  0.475
+
+improve: -0.00534832663834095
+kl: 0.009307959116995335
+step_size: 0.5120000000000001
+itr:  790    return before update:  0.118
+itr:  790    return after update:  0.39950013
+   inner RL loss: -0.0014095252932747825
+   outer RL loss: -0.005348158534616232
+
+improve: -0.0005685939686372876
+kl: 0.001773729338310659
+step_size: 0.32768000000000014
+itr:  791    return before update:  0.118
+itr:  791    return after update:  0.47574976
+
+improve: -0.007004336919635534
+kl: 0.004816507454961538
+step_size: 1.0
+itr:  792    return before update:  0.107
+itr:  792    return after update:  0.455
+
+improve: -0.00010874644794967026
+kl: 0.006067787762731314
+step_size: 0.6400000000000001
+itr:  793    return before update:  0.078
+itr:  793    return after update:  0.325
+
+improve: -1.0851352953977766e-06
+kl: 1.802533915906679e-05
+step_size: 0.06871947673600004
+itr:  794    return before update:  0.153
+itr:  794    return after update:  0.625
+
+improve: -0.0005129736382514238
+kl: 0.002215065760537982
+step_size: 0.2621440000000001
+itr:  795    return before update:  0.148
+itr:  795    return after update:  0.525
+
+improve: -0.003979044035077095
+kl: 0.005252254661172628
+step_size: 0.5120000000000001
+itr:  796    return before update:  0.108
+itr:  796    return after update:  0.34987
+
+improve: -0.0015234359307214618
+kl: 0.008327225223183632
+step_size: 0.2097152000000001
+itr:  797    return before update:  0.135
+itr:  797    return after update:  0.575
+
+improve: -0.004188087768852711
+kl: 0.0021513511892408133
+step_size: 1.0
+itr:  798    return before update:  0.157
+itr:  798    return after update:  0.555
+
+improve: -0.000724332348909229
+kl: 0.0033129993826150894
+step_size: 0.08589934592000005
+itr:  799    return before update:  0.087
+itr:  799    return after update:  0.375
+
+improve: -0.00255434843711555
+kl: 0.008069345727562904
+step_size: 0.40960000000000013
+itr:  800    return before update:  0.149
+itr:  800    return after update:  0.5744995
+   inner RL loss: 0.0010052143763459754
+   outer RL loss: -0.0025544564705342054
+
+improve: -0.004477024078369141
+kl: 0.008439245633780956
+step_size: 0.32768000000000014
+itr:  801    return before update:  0.132
+itr:  801    return after update:  0.52575976
+
+improve: -0.0032061648089438677
+kl: 0.00894392840564251
+step_size: 1.0
+itr:  802    return before update:  0.146
+itr:  802    return after update:  0.55278015
+
+improve: -0.0040958113968372345
+kl: 0.001524423249065876
+step_size: 1.0
+itr:  803    return before update:  0.127
+itr:  803    return after update:  0.51186997
+
+improve: -0.0006917549762874842
+kl: 0.0006468238425441086
+step_size: 1.0
+itr:  804    return before update:  0.136
+itr:  804    return after update:  0.52399
+
+improve: -0.005865823477506638
+kl: 0.005456961691379547
+step_size: 1.0
+itr:  805    return before update:  0.129
+itr:  805    return after update:  0.452
+
+improve: -1.9743578377529047e-05
+kl: 0.001701229833997786
+step_size: 0.2097152000000001
+itr:  806    return before update:  0.101
+itr:  806    return after update:  0.475
+
+improve: -3.717781146406196e-05
+kl: 0.00041926716221496463
+step_size: 1.0
+itr:  807    return before update:  0.071
+itr:  807    return after update:  0.325
+
+improve: -0.0007737829582765698
+kl: 0.004951653070747852
+step_size: 0.1677721600000001
+itr:  808    return before update:  0.128
+itr:  808    return after update:  0.45
+
+improve: -0.0026460886001586914
+kl: 0.008662747219204903
+step_size: 0.1677721600000001
+itr:  809    return before update:  0.1
+itr:  809    return after update:  0.425
+
+improve: -0.0014837485505267978
+kl: 0.006427443120628595
+step_size: 0.06871947673600004
+itr:  810    return before update:  0.116
+itr:  810    return after update:  0.525
+   inner RL loss: 0.002963634766638279
+   outer RL loss: -0.0014837246853858232
+
+improve: -0.014315771870315075
+kl: 0.009117943234741688
+step_size: 0.6400000000000001
+itr:  811    return before update:  0.156
+itr:  811    return after update:  0.51541
+
+improve: -0.00395177910104394
+kl: 0.0036102086305618286
+step_size: 1.0
+itr:  812    return before update:  0.12
+itr:  812    return after update:  0.4537898
+
+improve: -0.010472537018358707
+kl: 0.003833148628473282
+step_size: 1.0
+itr:  813    return before update:  0.125
+itr:  813    return after update:  0.42272973
+
+improve: -0.003511594608426094
+kl: 0.0005446678260341287
+step_size: 1.0
+itr:  814    return before update:  0.15
+itr:  814    return after update:  0.52298
+
+improve: -0.001048056990839541
+kl: 0.00622397568076849
+step_size: 1.0
+itr:  815    return before update:  0.126
+itr:  815    return after update:  0.525
+
+improve: -0.0027511920779943466
+kl: 0.009807354770600796
+step_size: 0.10737418240000006
+itr:  816    return before update:  0.14
+itr:  816    return after update:  0.575
+
+improve: -0.0028279710095375776
+kl: 0.007261073682457209
+step_size: 0.1677721600000001
+itr:  817    return before update:  0.098
+itr:  817    return after update:  0.45
+
+improve: -0.003350326791405678
+kl: 0.0009564034407958388
+step_size: 1.0
+itr:  818    return before update:  0.129
+itr:  818    return after update:  0.57298
+
+improve: -0.0015046927146613598
+kl: 0.0029508802108466625
+step_size: 1.0
+itr:  819    return before update:  0.149
+itr:  819    return after update:  0.5
+
+improve: -0.003049083985388279
+kl: 0.00508364662528038
+step_size: 0.2097152000000001
+itr:  820    return before update:  0.158
+itr:  820    return after update:  0.625
+   inner RL loss: 0.0009835838223807513
+   outer RL loss: -0.003049043007194996
+
+improve: -0.001520106103271246
+kl: 0.001245047664269805
+step_size: 1.0
+itr:  821    return before update:  0.112
+itr:  821    return after update:  0.39898998
+
+improve: -0.004595914855599403
+kl: 0.00674076983705163
+step_size: 0.5120000000000001
+itr:  822    return before update:  0.096
+itr:  822    return after update:  0.359
+
+improve: -0.002709809225052595
+kl: 0.006921400781720877
+step_size: 0.13421772800000006
+itr:  823    return before update:  0.129
+itr:  823    return after update:  0.525
+
+improve: -0.002189016668125987
+kl: 0.007963129319250584
+step_size: 1.0
+itr:  824    return before update:  0.093
+itr:  824    return after update:  0.382
+
+improve: -0.0014416135381907225
+kl: 0.003818071912974119
+step_size: 0.32768000000000014
+itr:  825    return before update:  0.139
+itr:  825    return after update:  0.59494996
+
+improve: -0.0033106172922998667
+kl: 0.0018122419714927673
+step_size: 1.0
+itr:  826    return before update:  0.098
+itr:  826    return after update:  0.41187006
+
+improve: -0.001832607202231884
+kl: 0.0021893358789384365
+step_size: 1.0
+itr:  827    return before update:  0.153
+itr:  827    return after update:  0.517
+
+improve: -0.005174609366804361
+kl: 0.008751699700951576
+step_size: 0.2097152000000001
+itr:  828    return before update:  0.134
+itr:  828    return after update:  0.47798
+
+improve: -0.004524612333625555
+kl: 0.009325101040303707
+step_size: 1.0
+itr:  829    return before update:  0.107
+itr:  829    return after update:  0.44697005
+
+improve: -0.0028679475653916597
+kl: 0.005019522272050381
+step_size: 0.5120000000000001
+itr:  830    return before update:  0.137
+itr:  830    return after update:  0.5
+   inner RL loss: 0.0005194923549424856
+   outer RL loss: -0.0028679431416094303
+
+improve: -0.0017566430615261197
+kl: 0.0004967728746123612
+step_size: 1.0
+itr:  831    return before update:  0.144
+itr:  831    return after update:  0.57
+
+improve: -0.0046616182662546635
+kl: 0.009591760113835335
+step_size: 0.2621440000000001
+itr:  832    return before update:  0.162
+itr:  832    return after update:  0.525
+
+improve: -0.003797775600105524
+kl: 0.002142043551430106
+step_size: 1.0
+itr:  833    return before update:  0.102
+itr:  833    return after update:  0.48788005
+
+improve: -0.005002317950129509
+kl: 0.006769263185560703
+step_size: 0.32768000000000014
+itr:  834    return before update:  0.13
+itr:  834    return after update:  0.55
+
+improve: -0.0037019760347902775
+kl: 0.005486259236931801
+step_size: 1.0
+itr:  835    return before update:  0.157
+itr:  835    return after update:  0.55
+
+improve: -0.0015256494516506791
+kl: 0.006752339657396078
+step_size: 0.8
+itr:  836    return before update:  0.094
+itr:  836    return after update:  0.479
+
+improve: -0.0008400449878536165
+kl: 0.003102212678641081
+step_size: 0.043980465111040035
+itr:  837    return before update:  0.102
+itr:  837    return after update:  0.5
+
+improve: -0.005513596814125776
+kl: 0.007936579175293446
+step_size: 0.40960000000000013
+itr:  838    return before update:  0.113
+itr:  838    return after update:  0.5
+
+improve: -0.005357802379876375
+kl: 0.002555497456341982
+step_size: 1.0
+itr:  839    return before update:  0.127
+itr:  839    return after update:  0.42777985
+
+improve: -0.013773445971310139
+kl: 0.0038406450767070055
+step_size: 0.1677721600000001
+itr:  840    return before update:  0.092
+itr:  840    return after update:  0.32400027
+   inner RL loss: 0.006010717188473791
+   outer RL loss: -0.014372153207659721
+
+improve: -0.00707224803045392
+kl: 0.00792972557246685
+step_size: 0.8
+itr:  841    return before update:  0.155
+itr:  841    return after update:  0.6267699
+
+improve: -0.0010240556439384818
+kl: 0.00813088845461607
+step_size: 1.0
+itr:  842    return before update:  0.122
+itr:  842    return after update:  0.5
+
+no update?
+improve: -0.004765849094837904
+kl: 0.03196462616324425
+step_size: 0.03518437208883203
+itr:  843    return before update:  0.152
+itr:  843    return after update:  0.525
+
+improve: -2.9153286007499446e-08
+kl: 0.005702538415789604
+step_size: 0.6400000000000001
+itr:  844    return before update:  0.126
+itr:  844    return after update:  0.525
+
+improve: -1.7246604329557158e-05
+kl: 0.006688314024358988
+step_size: 0.8
+itr:  845    return before update:  0.093
+itr:  845    return after update:  0.4
+
+improve: -8.263843483291566e-05
+kl: 0.0036990127991884947
+step_size: 0.2621440000000001
+itr:  846    return before update:  0.11
+itr:  846    return after update:  0.4
+
+improve: -0.0018175904406234622
+kl: 0.005195490084588528
+step_size: 0.10737418240000006
+itr:  847    return before update:  0.103
+itr:  847    return after update:  0.375
+
+improve: -0.0030115144327282906
+kl: 0.004624859429895878
+step_size: 0.5120000000000001
+itr:  848    return before update:  0.097
+itr:  848    return after update:  0.44974977
+
+improve: -0.0055390894412994385
+kl: 0.007679534610360861
+step_size: 0.40960000000000013
+itr:  849    return before update:  0.087
+itr:  849    return after update:  0.3747501
+
+improve: -0.007948853075504303
+kl: 0.0024199974723160267
+step_size: 1.0
+itr:  850    return before update:  0.119
+itr:  850    return after update:  0.5199401
+   inner RL loss: 0.002061098156264052
+   outer RL loss: 0.0025053464341908693
+
+improve: -0.004183846991509199
+kl: 0.008582464419305325
+step_size: 0.32768000000000014
+itr:  851    return before update:  0.129
+itr:  851    return after update:  0.49975
+
+improve: -0.0023699619341641665
+kl: 0.00638192892074585
+step_size: 0.10737418240000006
+itr:  852    return before update:  0.103
+itr:  852    return after update:  0.42474976
+
+improve: -0.0030506078619509935
+kl: 0.004953871481120586
+step_size: 0.40960000000000013
+itr:  853    return before update:  0.122
+itr:  853    return after update:  0.525
+
+improve: -0.010270027443766594
+kl: 0.009890497662127018
+step_size: 0.5120000000000001
+itr:  854    return before update:  0.121
+itr:  854    return after update:  0.45354012
+
+improve: -0.006852367892861366
+kl: 0.0019892214331775904
+step_size: 1.0
+itr:  855    return before update:  0.082
+itr:  855    return after update:  0.34692
+
+improve: -0.00415416806936264
+kl: 0.0014535535592585802
+step_size: 1.0
+itr:  856    return before update:  0.145
+itr:  856    return after update:  0.49993
+
+improve: -0.0043604387901723385
+kl: 0.006978815887123346
+step_size: 0.8
+itr:  857    return before update:  0.107
+itr:  857    return after update:  0.425
+
+improve: -0.004336207639425993
+kl: 0.007553962524980307
+step_size: 0.8
+itr:  858    return before update:  0.11
+itr:  858    return after update:  0.456
+
+improve: -0.0026034454349428415
+kl: 0.0021891393698751926
+step_size: 1.0
+itr:  859    return before update:  0.133
+itr:  859    return after update:  0.468
+
+improve: -0.0018010877538472414
+kl: 0.00014098484825808555
+step_size: 0.40960000000000013
+itr:  860    return before update:  0.167
+itr:  860    return after update:  0.57399
+   inner RL loss: -0.0012109970120945945
+   outer RL loss: 0.0007528283749707043
+
+improve: -0.0019729069899767637
+kl: 0.005168483126908541
+step_size: 0.13421772800000006
+itr:  861    return before update:  0.117
+itr:  861    return after update:  0.475
+
+improve: -0.0015356632648035884
+kl: 0.00021716095216106623
+step_size: 0.32768000000000014
+itr:  862    return before update:  0.108
+itr:  862    return after update:  0.47196996
+
+improve: -0.003626840189099312
+kl: 0.007600308395922184
+step_size: 0.2097152000000001
+itr:  863    return before update:  0.107
+itr:  863    return after update:  0.45
+
+improve: -0.008059240877628326
+kl: 0.007794077042490244
+step_size: 1.0
+itr:  864    return before update:  0.132
+itr:  864    return after update:  0.5305596
+
+improve: -0.0029883678071200848
+kl: 0.0016986954724416137
+step_size: 1.0
+itr:  865    return before update:  0.127
+itr:  865    return after update:  0.47074977
+
+improve: -0.001243829494342208
+kl: 0.006041752640157938
+step_size: 0.32768000000000014
+itr:  866    return before update:  0.116
+itr:  866    return after update:  0.45
+
+improve: -0.000640649872366339
+kl: 0.0012511475943028927
+step_size: 1.0
+itr:  867    return before update:  0.095
+itr:  867    return after update:  0.425
+
+improve: -0.0001430068223271519
+kl: 0.0005587235791608691
+step_size: 1.0
+itr:  868    return before update:  0.143
+itr:  868    return after update:  0.675
+
+improve: -0.0024746437557041645
+kl: 0.006513950880616903
+step_size: 0.5120000000000001
+itr:  869    return before update:  0.14
+itr:  869    return after update:  0.6
+
+improve: -0.004477211274206638
+kl: 0.008496055379509926
+step_size: 0.6400000000000001
+itr:  870    return before update:  0.132
+itr:  870    return after update:  0.574
+   inner RL loss: 0.0007187578652519732
+   outer RL loss: -0.004477199167013168
+
+improve: -0.0044698650017380714
+kl: 0.009581757709383965
+step_size: 0.6400000000000001
+itr:  871    return before update:  0.122
+itr:  871    return after update:  0.525
+
+improve: -0.0006282332469709218
+kl: 0.0026045923586934805
+step_size: 0.6400000000000001
+itr:  872    return before update:  0.114
+itr:  872    return after update:  0.5
+
+improve: -0.0061424532905220985
+kl: 0.008674661628901958
+step_size: 0.5120000000000001
+itr:  873    return before update:  0.121
+itr:  873    return after update:  0.475
+
+improve: -0.008489105850458145
+kl: 0.009643230587244034
+step_size: 0.40960000000000013
+itr:  874    return before update:  0.113
+itr:  874    return after update:  0.35545015
+
+improve: -0.0028241989202797413
+kl: 0.009991537779569626
+step_size: 0.2621440000000001
+itr:  875    return before update:  0.156
+itr:  875    return after update:  0.525
+
+improve: -0.002707072766497731
+kl: 0.006172168999910355
+step_size: 0.13421772800000006
+itr:  876    return before update:  0.09
+itr:  876    return after update:  0.375
+
+improve: -0.0027048669289797544
+kl: 0.0007172634359449148
+step_size: 0.6400000000000001
+itr:  877    return before update:  0.104
+itr:  877    return after update:  0.46995002
+
+improve: -0.0016865102807059884
+kl: 0.005495129618793726
+step_size: 1.0
+itr:  878    return before update:  0.121
+itr:  878    return after update:  0.525
+
+improve: -0.0027936038095504045
+kl: 0.005992478225380182
+step_size: 0.6400000000000001
+itr:  879    return before update:  0.144
+itr:  879    return after update:  0.55
+
+improve: -0.005799747072160244
+kl: 0.006852500140666962
+step_size: 0.5120000000000001
+itr:  880    return before update:  0.13
+itr:  880    return after update:  0.49974993
+   inner RL loss: 0.0027650587289826944
+   outer RL loss: -0.006142494268715382
+
+improve: -0.0024104099720716476
+kl: 0.006579113658517599
+step_size: 0.13421772800000006
+itr:  881    return before update:  0.095
+itr:  881    return after update:  0.29975012
+
+improve: -0.0045309970155358315
+kl: 0.006729725748300552
+step_size: 0.6400000000000001
+itr:  882    return before update:  0.159
+itr:  882    return after update:  0.581
+
+improve: -0.0020780896302312613
+kl: 0.007939731702208519
+step_size: 1.0
+itr:  883    return before update:  0.107
+itr:  883    return after update:  0.45
+
+improve: -0.008827973157167435
+kl: 0.0060517569072544575
+step_size: 0.8
+itr:  884    return before update:  0.106
+itr:  884    return after update:  0.404
+
+improve: -0.0018735529156401753
+kl: 0.004936097655445337
+step_size: 0.40960000000000013
+itr:  885    return before update:  0.143
+itr:  885    return after update:  0.55
+
+improve: -0.0041290102526545525
+kl: 0.004696307238191366
+step_size: 0.6400000000000001
+itr:  886    return before update:  0.123
+itr:  886    return after update:  0.475
+
+improve: -0.0008269110694527626
+kl: 0.007689402438700199
+step_size: 1.0
+itr:  887    return before update:  0.143
+itr:  887    return after update:  0.65
+
+improve: -0.0018603443168103695
+kl: 0.004006826784461737
+step_size: 0.5120000000000001
+itr:  888    return before update:  0.103
+itr:  888    return after update:  0.4
+
+improve: -0.0026092324405908585
+kl: 0.008459758013486862
+step_size: 1.0
+itr:  889    return before update:  0.145
+itr:  889    return after update:  0.525
+
+improve: -0.0013109544524922967
+kl: 0.009334957227110863
+step_size: 0.5120000000000001
+itr:  890    return before update:  0.111
+itr:  890    return after update:  0.425
+   inner RL loss: 0.0008899864740669727
+   outer RL loss: -0.0013109573628753424
+
+improve: -0.0037583045195788145
+kl: 0.00713441614061594
+step_size: 0.32768000000000014
+itr:  891    return before update:  0.113
+itr:  891    return after update:  0.475
+
+improve: -0.005578797776252031
+kl: 0.0048356736078858376
+step_size: 0.40960000000000013
+itr:  892    return before update:  0.136
+itr:  892    return after update:  0.575
+
+improve: -0.007104945834726095
+kl: 0.006020173896104097
+step_size: 0.8
+itr:  893    return before update:  0.144
+itr:  893    return after update:  0.549
+
+improve: -0.002573153004050255
+kl: 0.006393271032720804
+step_size: 1.0
+itr:  894    return before update:  0.169
+itr:  894    return after update:  0.675
+
+improve: -0.0032723713666200638
+kl: 0.004303055815398693
+step_size: 0.8
+itr:  895    return before update:  0.133
+itr:  895    return after update:  0.446
+
+improve: -0.0030127475038170815
+kl: 0.009900087490677834
+step_size: 0.40960000000000013
+itr:  896    return before update:  0.155
+itr:  896    return after update:  0.55
+
+improve: -0.003145504742860794
+kl: 0.0015876895049586892
+step_size: 1.0
+itr:  897    return before update:  0.097
+itr:  897    return after update:  0.39
+
+improve: -0.0007538846111856401
+kl: 0.001521737314760685
+step_size: 1.0
+itr:  898    return before update:  0.13
+itr:  898    return after update:  0.5
+
+improve: -0.008253670297563076
+kl: 0.007495085243135691
+step_size: 0.6400000000000001
+itr:  899    return before update:  0.154
+itr:  899    return after update:  0.527
+
+improve: -0.00126789475325495
+kl: 0.00043829932110384107
+step_size: 1.0
+itr:  900    return before update:  0.147
+itr:  900    return after update:  0.549
+   inner RL loss: -0.001565752636815887
+   outer RL loss: -0.0012678601779043674
+
+improve: -0.008782695047557354
+kl: 0.007243086583912373
+step_size: 1.0
+itr:  901    return before update:  0.107
+itr:  901    return after update:  0.381
+
+improve: -0.0037104373332113028
+kl: 0.0078573077917099
+step_size: 0.2621440000000001
+itr:  902    return before update:  0.134
+itr:  902    return after update:  0.5
+
+improve: -0.007010141387581825
+kl: 0.009553370997309685
+step_size: 0.8
+itr:  903    return before update:  0.106
+itr:  903    return after update:  0.447
+
+improve: -0.001236557844094932
+kl: 0.0021790042519569397
+step_size: 1.0
+itr:  904    return before update:  0.117
+itr:  904    return after update:  0.475
+
+improve: -0.0007331930682994425
+kl: 0.007123812101781368
+step_size: 0.6400000000000001
+itr:  905    return before update:  0.103
+itr:  905    return after update:  0.45
+
+improve: -0.0021399592515081167
+kl: 0.004461995325982571
+step_size: 1.0
+itr:  906    return before update:  0.115
+itr:  906    return after update:  0.45
+
+improve: -0.0038137955125421286
+kl: 0.009641336277127266
+step_size: 0.2097152000000001
+itr:  907    return before update:  0.108
+itr:  907    return after update:  0.45
+
+improve: -0.0019421151373535395
+kl: 0.004744804929941893
+step_size: 0.2621440000000001
+itr:  908    return before update:  0.126
+itr:  908    return after update:  0.5
+
+improve: -0.005114792846143246
+kl: 0.007423880510032177
+step_size: 0.5120000000000001
+itr:  909    return before update:  0.107
+itr:  909    return after update:  0.4
+
+improve: -0.0007669986807741225
+kl: 0.001658658729866147
+step_size: 1.0
+itr:  910    return before update:  0.107
+itr:  910    return after update:  0.425
+   inner RL loss: -0.0010166863743506839
+   outer RL loss: -0.0007669779588468373
+
+improve: -0.0032090062741190195
+kl: 0.008303416892886162
+step_size: 0.8
+itr:  911    return before update:  0.126
+itr:  911    return after update:  0.5
+
+improve: -0.004724552854895592
+kl: 0.006106783635914326
+step_size: 1.0
+itr:  912    return before update:  0.101
+itr:  912    return after update:  0.425
+
+improve: -0.003058861941099167
+kl: 0.004605315625667572
+step_size: 1.0
+itr:  913    return before update:  0.117
+itr:  913    return after update:  0.478
+
+improve: -0.0019772802479565144
+kl: 0.009867774322628975
+step_size: 0.6400000000000001
+itr:  914    return before update:  0.098
+itr:  914    return after update:  0.4
+
+improve: -0.0020927449222654104
+kl: 0.0030256188474595547
+step_size: 1.0
+itr:  915    return before update:  0.093
+itr:  915    return after update:  0.325
+
+improve: -0.0036935091484338045
+kl: 0.009679908864200115
+step_size: 0.5120000000000001
+itr:  916    return before update:  0.133
+itr:  916    return after update:  0.55
+
+improve: -0.006537570618093014
+kl: 0.006337162107229233
+step_size: 0.32768000000000014
+itr:  917    return before update:  0.136
+itr:  917    return after update:  0.6
+
+improve: -0.0005262171034701169
+kl: 0.003208498004823923
+step_size: 1.0
+itr:  918    return before update:  0.123
+itr:  918    return after update:  0.5
+
+improve: -0.004071351140737534
+kl: 0.006243214942514896
+step_size: 0.2621440000000001
+itr:  919    return before update:  0.087
+itr:  919    return after update:  0.35
+
+improve: -0.003925143741071224
+kl: 0.007100109942257404
+step_size: 0.32768000000000014
+itr:  920    return before update:  0.091
+itr:  920    return after update:  0.375
+   inner RL loss: -0.001459242927376181
+   outer RL loss: -0.003925128374248743
+
+improve: -0.00693910988047719
+kl: 0.00755374226719141
+step_size: 0.6400000000000001
+itr:  921    return before update:  0.101
+itr:  921    return after update:  0.525
+
+improve: -0.0045138453133404255
+kl: 0.006082131061702967
+step_size: 0.6400000000000001
+itr:  922    return before update:  0.162
+itr:  922    return after update:  0.625
+
+improve: -0.007115013897418976
+kl: 0.007704867981374264
+step_size: 1.0
+itr:  923    return before update:  0.149
+itr:  923    return after update:  0.58888996
+
+improve: -0.005785482469946146
+kl: 0.004671335220336914
+step_size: 1.0
+itr:  924    return before update:  0.1
+itr:  924    return after update:  0.30580997
+
+improve: -0.004853320308029652
+kl: 0.008012015372514725
+step_size: 0.6400000000000001
+itr:  925    return before update:  0.136
+itr:  925    return after update:  0.5
+
+improve: -0.0006719403900206089
+kl: 0.006586886942386627
+step_size: 1.0
+itr:  926    return before update:  0.117
+itr:  926    return after update:  0.49899
+
+improve: -0.0060663423500955105
+kl: 0.0068649835884571075
+step_size: 0.6400000000000001
+itr:  927    return before update:  0.128
+itr:  927    return after update:  0.5
+
+improve: -0.0036128805950284004
+kl: 0.0022997588384896517
+step_size: 1.0
+itr:  928    return before update:  0.145
+itr:  928    return after update:  0.571
+
+improve: -0.0006922557367943227
+kl: 0.004577841609716415
+step_size: 1.0
+itr:  929    return before update:  0.121
+itr:  929    return after update:  0.475
+
+improve: -0.0012955571291968226
+kl: 0.009739445522427559
+step_size: 1.0
+itr:  930    return before update:  0.148
+itr:  930    return after update:  0.475
+   inner RL loss: -0.0037815886782482265
+   outer RL loss: -0.0012955382699146867
+
+improve: -7.678558904444799e-05
+kl: 0.0020372539293020964
+step_size: 0.8
+itr:  931    return before update:  0.105
+itr:  931    return after update:  0.375
+
+improve: -0.004633225500583649
+kl: 0.002542790025472641
+step_size: 1.0
+itr:  932    return before update:  0.128
+itr:  932    return after update:  0.48863965
+
+improve: -0.0023743018973618746
+kl: 0.0074455575086176395
+step_size: 0.8
+itr:  933    return before update:  0.091
+itr:  933    return after update:  0.405
+
+improve: -0.005969122983515263
+kl: 0.009814271703362465
+step_size: 0.5120000000000001
+itr:  934    return before update:  0.193
+itr:  934    return after update:  0.65
+
+improve: -0.0001345401251455769
+kl: 0.002013020683079958
+step_size: 1.0
+itr:  935    return before update:  0.122
+itr:  935    return after update:  0.5
+
+improve: -0.0021418670658022165
+kl: 0.009400883689522743
+step_size: 1.0
+itr:  936    return before update:  0.134
+itr:  936    return after update:  0.53
+
+improve: -0.0016744440654292703
+kl: 0.004572573117911816
+step_size: 0.40960000000000013
+itr:  937    return before update:  0.114
+itr:  937    return after update:  0.4
+
+improve: -0.0011363023659214377
+kl: 0.0012230261927470565
+step_size: 1.0
+itr:  938    return before update:  0.136
+itr:  938    return after update:  0.523
+
+improve: -0.0004867515235673636
+kl: 0.004387624096125364
+step_size: 1.0
+itr:  939    return before update:  0.137
+itr:  939    return after update:  0.525
+
+improve: -0.0013114492176100612
+kl: 0.0028897286392748356
+step_size: 1.0
+itr:  940    return before update:  0.135
+itr:  940    return after update:  0.572
+   inner RL loss: 0.00478595377644524
+   outer RL loss: -0.0013114312896504998
+
+improve: -0.00019005616195499897
+kl: 0.0012284312397241592
+step_size: 1.0
+itr:  941    return before update:  0.148
+itr:  941    return after update:  0.55
+
+improve: -0.006708811037242413
+kl: 0.0038107752334326506
+step_size: 1.0
+itr:  942    return before update:  0.126
+itr:  942    return after update:  0.45997998
+
+improve: -8.626496128272265e-05
+kl: 0.002265647053718567
+step_size: 1.0
+itr:  943    return before update:  0.092
+itr:  943    return after update:  0.424
+
+improve: -0.0010103464592248201
+kl: 0.009485049173235893
+step_size: 1.0
+itr:  944    return before update:  0.123
+itr:  944    return after update:  0.5
+
+improve: -0.05335312709212303
+kl: 0.0059746028855443
+step_size: 0.1677721600000001
+itr:  945    return before update:  0.147
+itr:  945    return after update:  0.5
+
+improve: -8.591025834903121e-05
+kl: 0.003498255740851164
+step_size: 0.6400000000000001
+itr:  946    return before update:  0.065
+itr:  946    return after update:  0.325
+
+improve: -0.0003215956094209105
+kl: 0.004438751842826605
+step_size: 0.8
+itr:  947    return before update:  0.111
+itr:  947    return after update:  0.475
+
+improve: -0.0015583576168864965
+kl: 0.007066637277603149
+step_size: 0.40960000000000013
+itr:  948    return before update:  0.106
+itr:  948    return after update:  0.4
+
+improve: -0.0012398057151585817
+kl: 0.005192180164158344
+step_size: 0.40960000000000013
+itr:  949    return before update:  0.12
+itr:  949    return after update:  0.525
+
+improve: -0.005945499986410141
+kl: 0.0083933025598526
+step_size: 0.6400000000000001
+itr:  950    return before update:  0.144
+itr:  950    return after update:  0.575
+   inner RL loss: 0.0030084157595410945
+   outer RL loss: -0.005945488810539246
+
+improve: -0.004097995348274708
+kl: 0.006757544819265604
+step_size: 0.6400000000000001
+itr:  951    return before update:  0.08
+itr:  951    return after update:  0.401
+
+improve: -0.004822832997888327
+kl: 0.007465957198292017
+step_size: 0.6400000000000001
+itr:  952    return before update:  0.119
+itr:  952    return after update:  0.5
+
+improve: -0.0011084520956501365
+kl: 0.0023707186337560415
+step_size: 1.0
+itr:  953    return before update:  0.1
+itr:  953    return after update:  0.4
+
+improve: -0.0003787233436014503
+kl: 0.005659347865730524
+step_size: 0.6400000000000001
+itr:  954    return before update:  0.136
+itr:  954    return after update:  0.55
+
+improve: -0.007644894532859325
+kl: 0.0049395328387618065
+step_size: 1.0
+itr:  955    return before update:  0.161
+itr:  955    return after update:  0.56591
+
+improve: -0.004382997751235962
+kl: 0.008490754291415215
+step_size: 0.32768000000000014
+itr:  956    return before update:  0.117
+itr:  956    return after update:  0.404
+
+improve: -0.0013256020611152053
+kl: 0.007406218908727169
+step_size: 0.8
+itr:  957    return before update:  0.101
+itr:  957    return after update:  0.45
+
+improve: -0.002591974101960659
+kl: 0.006468222476541996
+step_size: 0.32768000000000014
+itr:  958    return before update:  0.1
+itr:  958    return after update:  0.425
+
+improve: -0.008209708146750927
+kl: 0.008107954636216164
+step_size: 0.5120000000000001
+itr:  959    return before update:  0.121
+itr:  959    return after update:  0.5
+
+improve: -0.005066555924713612
+kl: 0.00524819316342473
+step_size: 0.6400000000000001
+itr:  960    return before update:  0.165
+itr:  960    return after update:  0.54494995
+   inner RL loss: -0.0006028286123182624
+   outer RL loss: -0.0015613131690770388
+
+improve: -0.015526429750025272
+kl: 0.00908824522048235
+step_size: 0.6400000000000001
+itr:  961    return before update:  0.105
+itr:  961    return after update:  0.46488988
+
+improve: -0.00595320388674736
+kl: 0.002875010948628187
+step_size: 1.0
+itr:  962    return before update:  0.114
+itr:  962    return after update:  0.5459199
+
+improve: -0.004882745444774628
+kl: 0.009104969911277294
+step_size: 0.40960000000000013
+itr:  963    return before update:  0.159
+itr:  963    return after update:  0.525
+
+improve: -0.005032833199948072
+kl: 0.008195252157747746
+step_size: 0.5120000000000001
+itr:  964    return before update:  0.129
+itr:  964    return after update:  0.475
+
+improve: -0.0019682932179421186
+kl: 0.004851694218814373
+step_size: 1.0
+itr:  965    return before update:  0.127
+itr:  965    return after update:  0.45
+
+improve: -0.0041963583789765835
+kl: 0.006733323447406292
+step_size: 1.0
+itr:  966    return before update:  0.146
+itr:  966    return after update:  0.45
+
+improve: -0.0015094184782356024
+kl: 0.0013062527868896723
+step_size: 1.0
+itr:  967    return before update:  0.115
+itr:  967    return after update:  0.372
+
+improve: -0.006695176009088755
+kl: 0.007839118130505085
+step_size: 1.0
+itr:  968    return before update:  0.134
+itr:  968    return after update:  0.503
+
+improve: -0.006422898266464472
+kl: 0.009295438416302204
+step_size: 0.5120000000000001
+itr:  969    return before update:  0.128
+itr:  969    return after update:  0.45
+
+improve: -0.004235097207129002
+kl: 0.0064771645702421665
+step_size: 0.40960000000000013
+itr:  970    return before update:  0.102
+itr:  970    return after update:  0.45
+   inner RL loss: 0.0013392015069257468
+   outer RL loss: -0.004235077183693647
+
+improve: -0.0025346309412270784
+kl: 0.003588469233363867
+step_size: 0.8
+itr:  971    return before update:  0.138
+itr:  971    return after update:  0.6
+
+improve: -0.005668449215590954
+kl: 0.007756438106298447
+step_size: 0.6400000000000001
+itr:  972    return before update:  0.138
+itr:  972    return after update:  0.55
+
+improve: -0.0028297188691794872
+kl: 0.004293236415833235
+step_size: 1.0
+itr:  973    return before update:  0.134
+itr:  973    return after update:  0.575
+
+improve: -0.001643550000153482
+kl: 0.009205501526594162
+step_size: 0.8
+itr:  974    return before update:  0.111
+itr:  974    return after update:  0.425
+
+improve: -0.0042241583578288555
+kl: 0.006547653581947088
+step_size: 0.40960000000000013
+itr:  975    return before update:  0.115
+itr:  975    return after update:  0.425
+
+improve: -0.03720446303486824
+kl: 0.006666039582341909
+step_size: 0.13421772800000006
+itr:  976    return before update:  0.09
+itr:  976    return after update:  0.351
+
+improve: -0.0014051635516807437
+kl: 0.0060073197819292545
+step_size: 0.8
+itr:  977    return before update:  0.186
+itr:  977    return after update:  0.675
+
+improve: -0.00640596030279994
+kl: 0.009642550721764565
+step_size: 0.8
+itr:  978    return before update:  0.139
+itr:  978    return after update:  0.575
+
+improve: -0.006224866956472397
+kl: 0.00731123611330986
+step_size: 0.6400000000000001
+itr:  979    return before update:  0.123
+itr:  979    return after update:  0.525
+
+improve: -0.00678601348772645
+kl: 0.009512673132121563
+step_size: 0.5120000000000001
+itr:  980    return before update:  0.111
+itr:  980    return after update:  0.45
+   inner RL loss: 0.002247480151709169
+   outer RL loss: -0.006786032114177942
+
+improve: -0.0004905293462797999
+kl: 0.0038208584301173687
+step_size: 0.40960000000000013
+itr:  981    return before update:  0.132
+itr:  981    return after update:  0.5
+
+improve: -0.003934333100914955
+kl: 0.008068452589213848
+step_size: 0.32768000000000014
+itr:  982    return before update:  0.106
+itr:  982    return after update:  0.325
+
+improve: -0.005582068581134081
+kl: 0.0061121415346860886
+step_size: 0.5120000000000001
+itr:  983    return before update:  0.12
+itr:  983    return after update:  0.55
+
+improve: -0.0029857754707336426
+kl: 0.005918582901358604
+step_size: 1.0
+itr:  984    return before update:  0.111
+itr:  984    return after update:  0.45
+
+improve: -0.0059291948564350605
+kl: 0.0092708058655262
+step_size: 0.8
+itr:  985    return before update:  0.143
+itr:  985    return after update:  0.55
+
+improve: -0.00466418731957674
+kl: 0.005289732478559017
+step_size: 0.8
+itr:  986    return before update:  0.102
+itr:  986    return after update:  0.503
+
+improve: -0.0031279183458536863
+kl: 0.005241171922534704
+step_size: 0.5120000000000001
+itr:  987    return before update:  0.152
+itr:  987    return after update:  0.6
+
+improve: -0.003917663358151913
+kl: 0.008453561924397945
+step_size: 0.8
+itr:  988    return before update:  0.129
+itr:  988    return after update:  0.55
+
+improve: -0.004912706092000008
+kl: 0.0091824010014534
+step_size: 0.6400000000000001
+itr:  989    return before update:  0.15
+itr:  989    return after update:  0.475
+
+improve: -0.00507919630035758
+kl: 0.009953601285815239
+step_size: 0.8
+itr:  990    return before update:  0.09
+itr:  990    return after update:  0.425
+   inner RL loss: 0.002845694392453879
+   outer RL loss: -0.005079189315438271
+
+improve: -0.005983665585517883
+kl: 0.004853603430092335
+step_size: 0.40960000000000013
+itr:  991    return before update:  0.126
+itr:  991    return after update:  0.525
+
+improve: -0.004207075573503971
+kl: 0.007902431301772594
+step_size: 0.6400000000000001
+itr:  992    return before update:  0.137
+itr:  992    return after update:  0.575
+
+improve: -0.0024637714959681034
+kl: 0.002085414482280612
+step_size: 1.0
+itr:  993    return before update:  0.142
+itr:  993    return after update:  0.572
+
+improve: -0.002310396870598197
+kl: 0.004292424768209457
+step_size: 0.40960000000000013
+itr:  994    return before update:  0.114
+itr:  994    return after update:  0.425
+
+improve: -0.005574417300522327
+kl: 0.0083922129124403
+step_size: 0.8
+itr:  995    return before update:  0.096
+itr:  995    return after update:  0.45
+
+improve: -0.004267383832484484
+kl: 0.00584288639947772
+step_size: 0.5120000000000001
+itr:  996    return before update:  0.144
+itr:  996    return after update:  0.6
+
+improve: -0.0028434970881789923
+kl: 0.005580083467066288
+step_size: 0.5120000000000001
+itr:  997    return before update:  0.123
+itr:  997    return after update:  0.55
+
+improve: -0.004730758722871542
+kl: 0.00383360730484128
+step_size: 1.0
+itr:  998    return before update:  0.124
+itr:  998    return after update:  0.448
+
+improve: -0.002203983021900058
+kl: 0.0034714178182184696
+step_size: 0.5120000000000001
+itr:  999    return before update:  0.151
+itr:  999    return after update:  0.6
+
+improve: -0.005135125946253538
+kl: 0.0016228588065132499
+step_size: 1.0
+itr:  1000    return before update:  0.083
+itr:  1000    return after update:  0.28788
+   inner RL loss: 0.000339389759756159
+   outer RL loss: 0.001321882358752191
+Process EnvWorker-3:
+Process EnvWorker-4:
+Process EnvWorker-2:
+Process EnvWorker-1:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/Users/imane/Desktop/reconstruction/nm-metarl/nm_cavia/rl/envs/subproc_vec_env.py", line 43, in run
+    command, data = self.remote.recv()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+EOFError
+  File "/Users/imane/Desktop/reconstruction/nm-metarl/nm_cavia/rl/envs/subproc_vec_env.py", line 43, in run
+    command, data = self.remote.recv()
+  File "/Users/imane/Desktop/reconstruction/nm-metarl/nm_cavia/rl/envs/subproc_vec_env.py", line 43, in run
+    command, data = self.remote.recv()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+EOFError
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/Users/imane/Desktop/reconstruction/nm-metarl/nm_cavia/rl/envs/subproc_vec_env.py", line 43, in run
+    command, data = self.remote.recv()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+EOFError
+EOFError
+real 6831.56
+user 5917.67
+sys 3514.10
